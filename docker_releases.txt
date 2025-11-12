@@ -7,7 +7,7 @@ Linea: https://hub.docker.com/v2/repositories/consensys/linea-besu-package/tags:
 Maru: https://hub.docker.com/v2/repositories/consensys/maru/tags: sha256:b73795e3e9c8dcb3dafd9869ac81209932763b6e07cd73ba909233d4a639d1de
 Mantle: https://hub.docker.com/v2/repositories/mantlenetworkio/mantle-op-geth/tags: sha256:04bd3bdb0653429ac72c7c2dc1b6b334b0a4a90fbf5d3f09c9704daf8e38765e
 Moonbeam: https://hub.docker.com/v2/repositories/moonbeamfoundation/moonbeam/tags: sha256:7b3428ed022f43f28bef1d3992beb9a8f32f69ef3f1bc64f2914c263b0f5e85f
-Stellar Core: https://hub.docker.com/v2/repositories/stellar/stellar-core/tags: sha256:c95ff05d3714840b9ac113971600e63a885a2458e8eb330a1ce86a2cb227ddb5
+Stellar Core: https://hub.docker.com/v2/repositories/stellar/stellar-core/tags: sha256:d6aa15e2acda78f12e7f33e968e66eb333c022a76af2535aa4ff5d0dbdce1609
 Stellar RPC: https://hub.docker.com/v2/repositories/stellar/stellar-rpc/tags: sha256:602e3c59054ab659a0fcb4860f7dad2b106296159d1e43424710f53f8ee66c7b
 Polkadot: https://hub.docker.com/v2/repositories/parity/polkadot/tags: sha256:faae431c1ee372a56164943ff33e9f3782d3bec7b94bac6b8d883f0e2f8803dd
 Razor: https://hub.docker.com/v2/repositories/razornetwork/razor-go/tags: sha256:a35106301f56983f612771e06e8e83c1fc55032911b6187c3b8f778255d98fc5
