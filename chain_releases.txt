@@ -1,79 +1,79 @@
-Aleph-Zero: https://api.github.com/repos/Cardinal-Cryptography/aleph-node/releases 1
-Algorand: https://api.github.com/repos/algorand/go-algorand/releases 1
-Archway: https://api.github.com/repos/archway-network/archway/releases 1
-Astar (Shiden): https://api.github.com/repos/AstarNetwork/Astar/releases 1
-Axelar Core: https://api.github.com/repos/axelarnetwork/axelar-core/releases 1
-Axelar Ampd: https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases 1
-Axelar Tofnd: https://api.github.com/repos/axelarnetwork/tofnd/releases 1
-CosmoWasm: https://api.github.com/repos/CosmWasm/wasmvm/releases 1
-Bitsong: https://api.github.com/repos/bitsongofficial/go-bitsong/releases 1
-BSC: https://api.github.com/repos/bnb-chain/bsc/releases 1
-Celestia DA (Plume): https://api.github.com/repos/celestiaorg/nitro-das-celestia/releases 1
-Celo Geth: https://api.github.com/repos/celo-org/op-geth/releases 1
-Celo Opt: https://api.github.com/repos/celo-org/optimism/releases 1
-Centrifuge: https://api.github.com/repos/centrifuge/centrifuge-chain/releases 1
-Comebft: https://api.github.com/repos/cometbft/cometbft/releases 1
-CosmosHub: https://api.github.com/repos/cosmos/gaia/releases 1
-Crossfi: https://api.github.com/repos/crossfichain/crossfi-node/releases 1
-Dymension: https://api.github.com/repos/dymensionxyz/dymension/releases 1
-Elys: https://api.github.com/repos/elys-network/elys/releases 1
-Erigon: https://api.github.com/repos/erigontech/erigon/releases 1
-Espreso: https://api.github.com/repos/EspressoSystems/espresso-network/releases 1
-Geth: https://api.github.com/repos/ethereum/go-ethereum/releases 1
-Farcaster: https://api.github.com/repos/farcasterxyz/protocol/releases 1
-FetchAI: https://api.github.com/repos/fetchai/fetchd/releases 1
-Filecoin: https://api.github.com/repos/filecoin-project/lotus/releases 1
-Flow Gateway: https://api.github.com/repos/onflow/flow-evm-gateway/releases 1
-Flow CLI: https://api.github.com/repos/onflow/flow-cli/releases 1
-Fraxtal: https://api.github.com/repos/FraxFinance/fraxtal-node/releases 1
-Graph Node: https://api.github.com/repos/graphprotocol/graph-node/releases 1
-Graph Indexer: https://api.github.com/repos/graphprotocol/indexer/releases 1
-Hedera: https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases 1
-Hermes IBC: https://api.github.com/repos/informalsystems/hermes/releases 1
-Hydra: https://api.github.com/repos/galacticcouncil/hydration-node/releases 1
-Juno: https://api.github.com/repos/CosmosContracts/juno/releases 1
-Kava: https://api.github.com/repos/Kava-Labs/kava/releases 1
-Polkadot: https://api.github.com/repos/paritytech/polkadot-sdk/releases 1
-Kyve: https://api.github.com/repos/KYVENetwork/chain/releases 1
-Linea: https://api.github.com/repos/Consensys/linea-besu-package/releases 1
-Moonbeam: https://api.github.com/repos/moonbeam-foundation/moonbeam/releases 1
-Namada: https://api.github.com/repos/namada-net/namada/releases 1
-Namada Indexer: https://api.github.com/repos/namada-net/namada-interface/releases 1
-Nym: https://api.github.com/repos/nymtech/nym/releases 1
-Oasis Core: https://api.github.com/repos/oasisprotocol/oasis-core/releases 1
-Oasis Sapphire: https://api.github.com/repos/oasisprotocol/sapphire-paratime/releases 1
-Oasis Web3 Gateway: https://api.github.com/repos/oasisprotocol/oasis-web3-gateway/releases 1
-Oasis Cipher: https://api.github.com/repos/oasisprotocol/cipher-paratime/releases 1
-Oasis Emerald: https://api.github.com/repos/oasisprotocol/emerald-paratime/releases 1
-Oasis Keymanager: https://api.github.com/repos/oasisprotocol/keymanager-paratime/releeases 1
-Optimism Geth: https://api.github.com/repos/ethereum-optimism/op-geth/releases 1
-Optimism Node: https://api.github.com/repos/ethereum-optimism/optimism/releases 1
-Optimum: https://api.github.com/repos/getoptimum/mump2p-cli/releases 1
-Osmosis: https://api.github.com/repos/osmosis-labs/osmosis/releases 1
-Polygon Heimdall: https://api.github.com/repos/0xPolygon/heimdall-v2/releases 1
-Polygon Bor: https://api.github.com/repos/0xPolygon/bor/releases 1
-Plume: https://api.github.com/repos/celestiaorg/nitro/releases 1
-Prysm: https://api.github.com/repos/OffchainLabs/prysm/releases 1
-Razor: https://api.github.com/repos/razor-network/oracle-node/releases 1
-Scroll: https://api.github.com/repos/scroll-tech/go-ethereum/releases 1
-Seda: https://api.github.com/repos/sedaprotocol/seda-chain/releases 1
-Sophon: https://api.github.com/repos/sophon-org/sophon-light-node/releases 1
-SpaceAndTime: https://api.github.com/repos/spaceandtimefdn/sxt-node/releases 1
-Stellar Core: https://api.github.com/repos/stellar/stellar-core/releases 1
-Stellar RPC: https://api.github.com/repos/stellar/stellar-rpc/releases 1
-Swisstronik: https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases 1
-Tellor: https://api.github.com/repos/tellor-io/layer/releases 1
-Union: https://api.github.com/repos/unionlabs/union/releases 1
-Uptick: https://api.github.com/repos/UptickNetwork/uptick/releases 1
-Vara: https://api.github.com/repos/gear-tech/gear/releases 1
-Xion: https://api.github.com/repos/burnt-labs/xion/releases 1
-XRPL EVM: https://api.github.com/repos/xrplevm/node/releases 1
-XRPL: https://api.github.com/repos/XRPLF/rippled/releases 1
-Alertmanager: https://api.github.com/repos/prometheus/alertmanager/releases 1
-Blackbox: https://api.github.com/repos/prometheus/blackbox_exporter/releases 1
-Cadvisor: https://api.github.com/repos/google/cadvisor/releases 1
-Grafana: https://api.github.com/repos/grafana/grafana/releases 1
-Loki: https://api.github.com/repos/grafana/loki/releases 1
-Postgres: https://api.github.com/repos/prometheus-community/postgres_exporter/releases 1
-Prometheus: https://api.github.com/repos/prometheus/prometheus/releases 1
-Systemd Exporter: :https://api.github.com/repos/prometheus-community/systemd_exporter/releases 1
+Aleph-Zero: https://api.github.com/repos/Cardinal-Cryptography/aleph-node/releases: 1
+Algorand: https://api.github.com/repos/algorand/go-algorand/releases: 1
+Archway: https://api.github.com/repos/archway-network/archway/releases: 1
+Astar (Shiden): https://api.github.com/repos/AstarNetwork/Astar/releases: 1
+Axelar Core: https://api.github.com/repos/axelarnetwork/axelar-core/releases: 1
+Axelar Ampd: https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases: 1
+Axelar Tofnd: https://api.github.com/repos/axelarnetwork/tofnd/releases: 1
+CosmoWasm: https://api.github.com/repos/CosmWasm/wasmvm/releases: 1
+Bitsong: https://api.github.com/repos/bitsongofficial/go-bitsong/releases: 1
+BSC: https://api.github.com/repos/bnb-chain/bsc/releases: 1
+Celestia DA (Plume): https://api.github.com/repos/celestiaorg/nitro-das-celestia/releases: 1
+Celo Geth: https://api.github.com/repos/celo-org/op-geth/releases: 1
+Celo Opt: https://api.github.com/repos/celo-org/optimism/releases: 1
+Centrifuge: https://api.github.com/repos/centrifuge/centrifuge-chain/releases: 1
+Comebft: https://api.github.com/repos/cometbft/cometbft/releases: 1
+CosmosHub: https://api.github.com/repos/cosmos/gaia/releases: 1
+Crossfi: https://api.github.com/repos/crossfichain/crossfi-node/releases: 1
+Dymension: https://api.github.com/repos/dymensionxyz/dymension/releases: 1
+Elys: https://api.github.com/repos/elys-network/elys/releases: 1
+Erigon: https://api.github.com/repos/erigontech/erigon/releases: 1
+Espreso: https://api.github.com/repos/EspressoSystems/espresso-network/releases: 1
+Geth: https://api.github.com/repos/ethereum/go-ethereum/releases: 1
+Farcaster: https://api.github.com/repos/farcasterxyz/protocol/releases: 1
+FetchAI: https://api.github.com/repos/fetchai/fetchd/releases: 1
+Filecoin: https://api.github.com/repos/filecoin-project/lotus/releases: 1
+Flow Gateway: https://api.github.com/repos/onflow/flow-evm-gateway/releases: 1
+Flow CLI: https://api.github.com/repos/onflow/flow-cli/releases: 1
+Fraxtal: https://api.github.com/repos/FraxFinance/fraxtal-node/releases: 1
+Graph Node: https://api.github.com/repos/graphprotocol/graph-node/releases: 1
+Graph Indexer: https://api.github.com/repos/graphprotocol/indexer/releases: 1
+Hedera: https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases: 1
+Hermes IBC: https://api.github.com/repos/informalsystems/hermes/releases: 1
+Hydra: https://api.github.com/repos/galacticcouncil/hydration-node/releases: 1
+Juno: https://api.github.com/repos/CosmosContracts/juno/releases: 1
+Kava: https://api.github.com/repos/Kava-Labs/kava/releases: 1
+Polkadot: https://api.github.com/repos/paritytech/polkadot-sdk/releases: 1
+Kyve: https://api.github.com/repos/KYVENetwork/chain/releases: 1
+Linea: https://api.github.com/repos/Consensys/linea-besu-package/releases: 1
+Moonbeam: https://api.github.com/repos/moonbeam-foundation/moonbeam/releases: 1
+Namada: https://api.github.com/repos/namada-net/namada/releases: 1
+Namada Indexer: https://api.github.com/repos/namada-net/namada-interface/releases: 1
+Nym: https://api.github.com/repos/nymtech/nym/releases: 1
+Oasis Core: https://api.github.com/repos/oasisprotocol/oasis-core/releases: 1
+Oasis Sapphire: https://api.github.com/repos/oasisprotocol/sapphire-paratime/releases: 1
+Oasis Web3 Gateway: https://api.github.com/repos/oasisprotocol/oasis-web3-gateway/releases: 1
+Oasis Cipher: https://api.github.com/repos/oasisprotocol/cipher-paratime/releases: 1
+Oasis Emerald: https://api.github.com/repos/oasisprotocol/emerald-paratime/releases: 1
+Oasis Keymanager: https://api.github.com/repos/oasisprotocol/keymanager-paratime/releeases: 1
+Optimism Geth: https://api.github.com/repos/ethereum-optimism/op-geth/releases: 1
+Optimism Node: https://api.github.com/repos/ethereum-optimism/optimism/releases: 1
+Optimum: https://api.github.com/repos/getoptimum/mump2p-cli/releases: 1
+Osmosis: https://api.github.com/repos/osmosis-labs/osmosis/releases: 1
+Polygon Heimdall: https://api.github.com/repos/0xPolygon/heimdall-v2/releases: 1
+Polygon Bor: https://api.github.com/repos/0xPolygon/bor/releases: 1
+Plume: https://api.github.com/repos/celestiaorg/nitro/releases: 1
+Prysm: https://api.github.com/repos/OffchainLabs/prysm/releases: 1
+Razor: https://api.github.com/repos/razor-network/oracle-node/releases: 1
+Scroll: https://api.github.com/repos/scroll-tech/go-ethereum/releases: 1
+Seda: https://api.github.com/repos/sedaprotocol/seda-chain/releases: 1
+Sophon: https://api.github.com/repos/sophon-org/sophon-light-node/releases: 1
+SpaceAndTime: https://api.github.com/repos/spaceandtimefdn/sxt-node/releases: 1
+Stellar Core: https://api.github.com/repos/stellar/stellar-core/releases: 1
+Stellar RPC: https://api.github.com/repos/stellar/stellar-rpc/releases: 1
+Swisstronik: https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases: 1
+Tellor: https://api.github.com/repos/tellor-io/layer/releases: 1
+Union: https://api.github.com/repos/unionlabs/union/releases: 1
+Uptick: https://api.github.com/repos/UptickNetwork/uptick/releases: 1
+Vara: https://api.github.com/repos/gear-tech/gear/releases: 1
+Xion: https://api.github.com/repos/burnt-labs/xion/releases: 1
+XRPL EVM: https://api.github.com/repos/xrplevm/node/releases: 1
+XRPL: https://api.github.com/repos/XRPLF/rippled/releases: 1
+Alertmanager: https://api.github.com/repos/prometheus/alertmanager/releases: 1
+Blackbox: https://api.github.com/repos/prometheus/blackbox_exporter/releases: 1
+Cadvisor: https://api.github.com/repos/google/cadvisor/releases: 1
+Grafana: https://api.github.com/repos/grafana/grafana/releases: 1
+Loki: https://api.github.com/repos/grafana/loki/releases: 1
+Postgres: https://api.github.com/repos/prometheus-community/postgres_exporter/releases: 1
+Prometheus: https://api.github.com/repos/prometheus/prometheus/releases: 1
+Systemd Exporter: :https://api.github.com/repos/prometheus-community/systemd_exporter/releases: 1
