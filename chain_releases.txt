@@ -1,79 +1,79 @@
-Aleph-Zero: https://api.github.com/repos/Cardinal-Cryptography/aleph-node/releases: r-15.2.0
-Algorand: https://api.github.com/repos/algorand/go-algorand/releases: v4.4.1-stable
-Archway: https://api.github.com/repos/archway-network/archway/releases: v10.1.0
-Astar (Shiden): https://api.github.com/repos/AstarNetwork/Astar/releases: runtime-1900
-Axelar Core: https://api.github.com/repos/axelarnetwork/axelar-core/releases: v1.2.4
-Axelar Ampd: https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases: ampd-v1.13.0
-Axelar Tofnd: https://api.github.com/repos/axelarnetwork/tofnd/releases: v1.0.1
-CosmoWasm: https://api.github.com/repos/CosmWasm/wasmvm/releases: v3.0.2
-Bitsong: https://api.github.com/repos/bitsongofficial/go-bitsong/releases: v0.23.0
-BSC: https://api.github.com/repos/bnb-chain/bsc/releases: v1.6.3
-Celestia DA (Plume): https://api.github.com/repos/celestiaorg/nitro-das-celestia/releases: v0.6.4-mocha
-Celo Geth: https://api.github.com/repos/celo-org/op-geth/releases: celo-v2.1.2
-Celo Opt: https://api.github.com/repos/celo-org/optimism/releases: celo-v2.1.0
-Centrifuge: https://api.github.com/repos/centrifuge/centrifuge-chain/releases: v0.15.6
-Comebft: https://api.github.com/repos/cometbft/cometbft/releases: v0.38.19
-CosmosHub: https://api.github.com/repos/cosmos/gaia/releases: v25.2.0
-Crossfi: https://api.github.com/repos/crossfichain/crossfi-node/releases: v0.4.0
-Dymension: https://api.github.com/repos/dymensionxyz/dymension/releases: v4.0.0-rc05
-Elys: https://api.github.com/repos/elys-network/elys/releases: v6.6.0-rc0
-Erigon: https://api.github.com/repos/erigontech/erigon/releases: v3.2.2
-Espreso: https://api.github.com/repos/EspressoSystems/espresso-network/releases: sdks/go/v0.3.2
-Geth: https://api.github.com/repos/ethereum/go-ethereum/releases: v1.16.7
-Farcaster: https://api.github.com/repos/farcasterxyz/protocol/releases: v2023.7.12
-FetchAI: https://api.github.com/repos/fetchai/fetchd/releases: v0.14.1
-Filecoin: https://api.github.com/repos/filecoin-project/lotus/releases: v1.34.1
-Flow Gateway: https://api.github.com/repos/onflow/flow-evm-gateway/releases: v1.3.5
-Flow CLI: https://api.github.com/repos/onflow/flow-cli/releases: v2.10.2
-Fraxtal: https://api.github.com/repos/FraxFinance/fraxtal-node/releases: testnet-20251010
-Graph Node: https://api.github.com/repos/graphprotocol/graph-node/releases: v0.41.1
-Graph Indexer: https://api.github.com/repos/graphprotocol/indexer/releases: v0.24.3
-Hedera: https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases: v0.73.0
-Hermes IBC: https://api.github.com/repos/informalsystems/hermes/releases: v1.13.3
-Hydra: https://api.github.com/repos/galacticcouncil/hydration-node/releases: v42.1.0
-Juno: https://api.github.com/repos/CosmosContracts/juno/releases: v29.0.0
-Kava: https://api.github.com/repos/Kava-Labs/kava/releases: v0.28.0
-Polkadot: https://api.github.com/repos/paritytech/polkadot-sdk/releases: polkadot-stable2506-5
-Kyve: https://api.github.com/repos/KYVENetwork/chain/releases: v2.2.0
-Linea: https://api.github.com/repos/Consensys/linea-besu-package/releases: v0.1.15
-Moonbeam: https://api.github.com/repos/moonbeam-foundation/moonbeam/releases: runtime-4000
-Namada: https://api.github.com/repos/namada-net/namada/releases: v101.1.4
-Namada Indexer: https://api.github.com/repos/namada-net/namada-interface/releases: namadillo@v1.32.1
-Nym: https://api.github.com/repos/nymtech/nym/releases: nym-binaries-v2025.20-leerdammer
-Oasis Core: https://api.github.com/repos/oasisprotocol/oasis-core/releases: v25.7
-Oasis Sapphire: https://api.github.com/repos/oasisprotocol/sapphire-paratime/releases: v1.2.0-testnet
-Oasis Web3 Gateway: https://api.github.com/repos/oasisprotocol/oasis-web3-gateway/releases: v5.3.4
-Oasis Cipher: https://api.github.com/repos/oasisprotocol/cipher-paratime/releases: v3.6.0-testnet
-Oasis Emerald: https://api.github.com/repos/oasisprotocol/emerald-paratime/releases: v11.0.0
-Oasis Keymanager: https://api.github.com/repos/oasisprotocol/keymanager-paratime/releeases: 1
-Optimism Geth: https://api.github.com/repos/ethereum-optimism/op-geth/releases: v1.101603.4
-Optimism Node: https://api.github.com/repos/ethereum-optimism/optimism/releases: op-node/v1.16.1
-Optimum: https://api.github.com/repos/getoptimum/mump2p-cli/releases: v0.0.1-rc8
-Osmosis: https://api.github.com/repos/osmosis-labs/osmosis/releases: v31.0.0
-Polygon Heimdall: https://api.github.com/repos/0xPolygon/heimdall-v2/releases: v0.4.5-beta
-Polygon Bor: https://api.github.com/repos/0xPolygon/bor/releases: v2.4.0-beta5
-Plume: https://api.github.com/repos/celestiaorg/nitro/releases: consensus-v41
-Prysm: https://api.github.com/repos/OffchainLabs/prysm/releases: v7.0.0
-Razor: https://api.github.com/repos/razor-network/oracle-node/releases: v2.1.1
-Scroll: https://api.github.com/repos/scroll-tech/go-ethereum/releases: scroll-v5.9.2
-Seda: https://api.github.com/repos/sedaprotocol/seda-chain/releases: v1.1.0-dev.7
-Sophon: https://api.github.com/repos/sophon-org/sophon-light-node/releases: v0.0.104
-SpaceAndTime: https://api.github.com/repos/spaceandtimefdn/sxt-node/releases: v1.44.0
-Stellar Core: https://api.github.com/repos/stellar/stellar-core/releases: v24.1.0
-Stellar RPC: https://api.github.com/repos/stellar/stellar-rpc/releases: v24.0.0
-Swisstronik: https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases: v1.0.1-mainnet
-Tellor: https://api.github.com/repos/tellor-io/layer/releases: reporterd/v0.1.1
-Union: https://api.github.com/repos/unionlabs/union/releases: uniond/v1.2.2
-Uptick: https://api.github.com/repos/UptickNetwork/uptick/releases: v0.3.0
-Vara: https://api.github.com/repos/gear-tech/gear/releases: build
-Xion: https://api.github.com/repos/burnt-labs/xion/releases: v23.0.0
-XRPL EVM: https://api.github.com/repos/xrplevm/node/releases: v9.0.1-rc.1
-XRPL: https://api.github.com/repos/XRPLF/rippled/releases: 2.6.1
-Alertmanager: https://api.github.com/repos/prometheus/alertmanager/releases: v0.29.0
-Blackbox: https://api.github.com/repos/prometheus/blackbox_exporter/releases: v0.27.0
-Cadvisor: https://api.github.com/repos/google/cadvisor/releases: v0.53.0
-Grafana: https://api.github.com/repos/grafana/grafana/releases: v12.2.1
-Loki: https://api.github.com/repos/grafana/loki/releases: v2.9.17
-Postgres: https://api.github.com/repos/prometheus-community/postgres_exporter/releases: v0.18.1
-Prometheus: https://api.github.com/repos/prometheus/prometheus/releases: v3.7.3
-Systemd Exporter: :https://api.github.com/repos/prometheus-community/systemd_exporter/releases: 1
+Aleph-Zero: "https://api.github.com/repos/Cardinal-Cryptography/aleph-node/releases": r-15.2.0
+Algorand: "https://api.github.com/repos/algorand/go-algorand/releases": v4.4.1-stable
+Archway: "https://api.github.com/repos/archway-network/archway/releases": v10.1.0
+Astar (Shiden): "https://api.github.com/repos/AstarNetwork/Astar/releases": runtime-1900
+Axelar Core: "https://api.github.com/repos/axelarnetwork/axelar-core/releases": v1.2.4
+Axelar Ampd: "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases": ampd-v1.13.0
+Axelar Tofnd: "https://api.github.com/repos/axelarnetwork/tofnd/releases": v1.0.1
+CosmoWasm: "https://api.github.com/repos/CosmWasm/wasmvm/releases": v3.0.2
+Bitsong: "https://api.github.com/repos/bitsongofficial/go-bitsong/releases": v0.23.0
+BSC: "https://api.github.com/repos/bnb-chain/bsc/releases": v1.6.3
+Celestia DA (Plume): "https://api.github.com/repos/celestiaorg/nitro-das-celestia/releases": v0.6.4-mocha
+Celo Geth: "https://api.github.com/repos/celo-org/op-geth/releases": celo-v2.1.2
+Celo Opt: "https://api.github.com/repos/celo-org/optimism/releases": celo-v2.1.0
+Centrifuge: "https://api.github.com/repos/centrifuge/centrifuge-chain/releases": v0.15.6
+Comebft: "https://api.github.com/repos/cometbft/cometbft/releases": v0.38.19
+CosmosHub: "https://api.github.com/repos/cosmos/gaia/releases": v25.2.0
+Crossfi: "https://api.github.com/repos/crossfichain/crossfi-node/releases": v0.4.0
+Dymension: "https://api.github.com/repos/dymensionxyz/dymension/releases": v4.0.0-rc05
+Elys: "https://api.github.com/repos/elys-network/elys/releases": v6.6.0-rc0
+Erigon: "https://api.github.com/repos/erigontech/erigon/releases": v3.2.2
+Espreso: "https://api.github.com/repos/EspressoSystems/espresso-network/releases": sdks/go/v0.3.2
+Geth: "https://api.github.com/repos/ethereum/go-ethereum/releases": v1.16.7
+Farcaster: "https://api.github.com/repos/farcasterxyz/protocol/releases": v2023.7.12
+FetchAI: "https://api.github.com/repos/fetchai/fetchd/releases": v0.14.1
+Filecoin: "https://api.github.com/repos/filecoin-project/lotus/releases": v1.34.1
+Flow Gateway: "https://api.github.com/repos/onflow/flow-evm-gateway/releases": v1.3.5
+Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.10.2
+Fraxtal: "https://api.github.com/repos/FraxFinance/fraxtal-node/releases": testnet-20251010
+Graph Node: "https://api.github.com/repos/graphprotocol/graph-node/releases": v0.41.1
+Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.24.3
+Hedera: "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases": v0.73.0
+Hermes IBC: "https://api.github.com/repos/informalsystems/hermes/releases": v1.13.3
+Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v42.1.0
+Juno: "https://api.github.com/repos/CosmosContracts/juno/releases": v29.0.0
+Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.0
+Polkadot: "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2506-5
+Kyve: "https://api.github.com/repos/KYVENetwork/chain/releases": v2.2.0
+Linea: "https://api.github.com/repos/Consensys/linea-besu-package/releases": v0.1.15
+Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": runtime-4000
+Namada: "https://api.github.com/repos/namada-net/namada/releases": v101.1.4
+Namada Indexer: "https://api.github.com/repos/namada-net/namada-interface/releases": namadillo@v1.32.1
+Nym: "https://api.github.com/repos/nymtech/nym/releases": nym-binaries-v2025.20-leerdammer
+Oasis Core: "https://api.github.com/repos/oasisprotocol/oasis-core/releases": v25.7
+Oasis Sapphire: "https://api.github.com/repos/oasisprotocol/sapphire-paratime/releases": v1.2.0-testnet
+Oasis Web3 Gateway: "https://api.github.com/repos/oasisprotocol/oasis-web3-gateway/releases": v5.3.4
+Oasis Cipher: "https://api.github.com/repos/oasisprotocol/cipher-paratime/releases": v3.6.0-testnet
+Oasis Emerald: "https://api.github.com/repos/oasisprotocol/emerald-paratime/releases": v11.0.0
+Oasis Keymanager: "https://api.github.com/repos/oasisprotocol/keymanager-paratime/releeases: 1
+Optimism Geth: "https://api.github.com/repos/ethereum-optimism/op-geth/releases": v1.101603.4
+Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases": op-node/v1.16.1
+Optimum: "https://api.github.com/repos/getoptimum/mump2p-cli/releases": v0.0.1-rc8
+Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.0
+Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.4.5-beta
+Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.4.0-beta5
+Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": consensus-v41
+Prysm: "https://api.github.com/repos/OffchainLabs/prysm/releases": v7.0.0
+Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
+Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.9.2
+Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.1.0-dev.7
+Sophon: "https://api.github.com/repos/sophon-org/sophon-light-node/releases": v0.0.104
+SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.44.0
+Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v24.1.0
+Stellar RPC: "https://api.github.com/repos/stellar/stellar-rpc/releases": v24.0.0
+Swisstronik: "https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases": v1.0.1-mainnet
+Tellor: "https://api.github.com/repos/tellor-io/layer/releases": reporterd/v0.1.1
+Union: "https://api.github.com/repos/unionlabs/union/releases": uniond/v1.2.2
+Uptick: "https://api.github.com/repos/UptickNetwork/uptick/releases": v0.3.0
+Vara: "https://api.github.com/repos/gear-tech/gear/releases": build
+Xion: "https://api.github.com/repos/burnt-labs/xion/releases": v23.0.0
+XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v9.0.1-rc.1
+XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 2.6.1
+Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.29.0
+Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": v0.27.0
+Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.53.0
+Grafana: "https://api.github.com/repos/grafana/grafana/releases": v12.2.1
+Loki: "https://api.github.com/repos/grafana/loki/releases": v2.9.17
+Postgres: "https://api.github.com/repos/prometheus-community/postgres_exporter/releases": v0.18.1
+Prometheus: "https://api.github.com/repos/prometheus/prometheus/releases": v3.7.3
+Systemd Exporter: :"https://api.github.com/repos/prometheus-community/systemd_exporter/releases": 1
