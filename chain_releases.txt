@@ -38,7 +38,7 @@ Kyve: "https://api.github.com/repos/KYVENetwork/chain/releases": v2.2.0
 Linea: "https://api.github.com/repos/Consensys/linea-besu-package/releases": v0.1.15
 Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": runtime-4000
 Namada: "https://api.github.com/repos/namada-net/namada/releases": v101.1.4
-Namada Indexer: "https://api.github.com/repos/namada-net/namada-interface/releases": namadillo@v1.32.1
+Namada Indexer: "https://api.github.com/repos/namada-net/namada-interface/releases": namadillo@v1.32.1-maint.1
 Nym: "https://api.github.com/repos/nymtech/nym/releases": nym-binaries-v2025.20-leerdammer
 Oasis Core: "https://api.github.com/repos/oasisprotocol/oasis-core/releases": v25.7
 Oasis Sapphire: "https://api.github.com/repos/oasisprotocol/sapphire-paratime/releases": v1.2.0-testnet
