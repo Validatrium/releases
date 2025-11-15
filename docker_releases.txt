@@ -11,4 +11,4 @@ Stellar Core: https://hub.docker.com/v2/repositories/stellar/stellar-core/tags: 
 Stellar RPC: https://hub.docker.com/v2/repositories/stellar/stellar-rpc/tags: sha256:602e3c59054ab659a0fcb4860f7dad2b106296159d1e43424710f53f8ee66c7b
 Polkadot: https://hub.docker.com/v2/repositories/parity/polkadot/tags: sha256:faae431c1ee372a56164943ff33e9f3782d3bec7b94bac6b8d883f0e2f8803dd
 Razor: https://hub.docker.com/v2/repositories/razornetwork/razor-go/tags: sha256:a35106301f56983f612771e06e8e83c1fc55032911b6187c3b8f778255d98fc5
-Sophon: https://hub.docker.com/v2/repositories/sophonhub/sophon-light-node/tags: sha256:bfb953840eccc3beec1f312cd41aa49062e6697662fad668f5e8081423ba6808
+Sophon: https://hub.docker.com/v2/repositories/sophonhub/sophon-light-node/tags: sha256:a9273c1a56d8f13a6927149fa8bbae5d756777048051f30418d4062a3ca17128
