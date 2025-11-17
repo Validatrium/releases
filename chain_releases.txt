@@ -25,7 +25,7 @@ FetchAI: "https://api.github.com/repos/fetchai/fetchd/releases": v0.14.1
 Filecoin: "https://api.github.com/repos/filecoin-project/lotus/releases": v1.34.1
 Flow Gateway: "https://api.github.com/repos/onflow/flow-evm-gateway/releases": v1.3.5
 Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.10.2
-Fraxtal: "https://api.github.com/repos/FraxFinance/fraxtal-node/releases": mainnet-20251114
+Fraxtal: "https://api.github.com/repos/FraxFinance/fraxtal-node/releases": mainnet-20251117
 Graph Node: "https://api.github.com/repos/graphprotocol/graph-node/releases": v0.41.1
 Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.24.3
 Hedera: "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases": v0.73.0
@@ -40,7 +40,7 @@ Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": 
 Namada: "https://api.github.com/repos/namada-net/namada/releases": v101.1.4
 Namada Indexer: "https://api.github.com/repos/namada-net/namada-interface/releases": namadillo@v1.32.1-maint.1
 Nym: "https://api.github.com/repos/nymtech/nym/releases": nym-binaries-v2025.20-leerdammer
-Oasis Core: "https://api.github.com/repos/oasisprotocol/oasis-core/releases": v25.7
+Oasis Core: "https://api.github.com/repos/oasisprotocol/oasis-core/releases": v25.8
 Oasis Sapphire: "https://api.github.com/repos/oasisprotocol/sapphire-paratime/releases": v1.2.0-testnet
 Oasis Web3 Gateway: "https://api.github.com/repos/oasisprotocol/oasis-web3-gateway/releases": v5.3.4
 Oasis Cipher: "https://api.github.com/repos/oasisprotocol/cipher-paratime/releases": v3.6.0-testnet
@@ -58,7 +58,7 @@ Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
 Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.9.2
 Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.1.0-dev.7
 Sophon: "https://api.github.com/repos/sophon-org/sophon-light-node/releases": v0.0.104
-SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.44.4
+SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.44.5
 Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v24.1.0
 Stellar RPC: "https://api.github.com/repos/stellar/stellar-rpc/releases": v24.0.0
 Swisstronik: "https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases": v1.0.1-mainnet
