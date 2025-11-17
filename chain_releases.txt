@@ -73,7 +73,7 @@ Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v
 Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": v0.27.0
 Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.53.0
 Grafana: "https://api.github.com/repos/grafana/grafana/releases": v12.2.1
-Loki: "https://api.github.com/repos/grafana/loki/releases": v2.9.17
+Loki: "https://api.github.com/repos/grafana/loki/releases": v3.6.0
 Postgres: "https://api.github.com/repos/prometheus-community/postgres_exporter/releases": v0.18.1
 Prometheus: "https://api.github.com/repos/prometheus/prometheus/releases": v3.7.3
 Systemd Exporter: ":"https://api.github.com/repos/prometheus-community/systemd_exporter/releases": 1
