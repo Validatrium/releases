@@ -51,14 +51,14 @@ Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases
 Optimum: "https://api.github.com/repos/getoptimum/mump2p-cli/releases": v0.0.1-rc8
 Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.0
 Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.5.0-beta
-Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.5.0
+Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.5.1
 Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": consensus-v41
 Prysm: "https://api.github.com/repos/OffchainLabs/prysm/releases": v7.0.0
 Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
 Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.9.2
 Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.1.0-dev.7
 Sophon: "https://api.github.com/repos/sophon-org/sophon-light-node/releases": v0.0.104
-SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.44.3
+SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.44.4
 Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v24.1.0
 Stellar RPC: "https://api.github.com/repos/stellar/stellar-rpc/releases": v24.0.0
 Swisstronik: "https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases": v1.0.1-mainnet
