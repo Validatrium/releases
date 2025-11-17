@@ -15,7 +15,7 @@ Centrifuge: "https://api.github.com/repos/centrifuge/centrifuge-chain/releases":
 Comebft: "https://api.github.com/repos/cometbft/cometbft/releases": v0.38.19
 CosmosHub: "https://api.github.com/repos/cosmos/gaia/releases": v25.2.0
 Crossfi: "https://api.github.com/repos/crossfichain/crossfi-node/releases": v0.4.0
-Dymension: "https://api.github.com/repos/dymensionxyz/dymension/releases": v4.0.0-rc05
+Dymension: "https://api.github.com/repos/dymensionxyz/dymension/releases": v4.0.0-rc06
 Elys: "https://api.github.com/repos/elys-network/elys/releases": v6.6.0-rc0
 Erigon: "https://api.github.com/repos/erigontech/erigon/releases": v3.2.2
 Espreso: "https://api.github.com/repos/EspressoSystems/espresso-network/releases": sdks/go/v0.3.2
