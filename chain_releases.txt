@@ -33,7 +33,7 @@ Hermes IBC: "https://api.github.com/repos/informalsystems/hermes/releases": v1.1
 Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v42.1.0
 Juno: "https://api.github.com/repos/CosmosContracts/juno/releases": v29.0.0
 Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.0
-Polkadot: "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2506-5
+Polkadot: "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2509-2
 Kyve: "https://api.github.com/repos/KYVENetwork/chain/releases": v2.2.0
 Linea: "https://api.github.com/repos/Consensys/linea-besu-package/releases": v0.1.15
 Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": runtime-4000
@@ -51,7 +51,7 @@ Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases
 Optimum: "https://api.github.com/repos/getoptimum/mump2p-cli/releases": v0.0.1-rc8
 Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.0
 Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.5.0-beta
-Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.4.0-beta5
+Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.5.0
 Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": consensus-v41
 Prysm: "https://api.github.com/repos/OffchainLabs/prysm/releases": v7.0.0
 Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
