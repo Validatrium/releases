@@ -21,7 +21,7 @@ Erigon: "https://api.github.com/repos/erigontech/erigon/releases": v3.2.2
 Espreso: "https://api.github.com/repos/EspressoSystems/espresso-network/releases": sdks/go/v0.3.2
 Geth: "https://api.github.com/repos/ethereum/go-ethereum/releases": v1.16.7
 Farcaster: "https://api.github.com/repos/farcasterxyz/protocol/releases": v2023.7.12
-FetchAI: "https://api.github.com/repos/fetchai/fetchd/releases": v0.14.1
+FetchAI: "https://api.github.com/repos/fetchai/fetchd/releases": v0.15.0-rc0
 Filecoin: "https://api.github.com/repos/filecoin-project/lotus/releases": v1.34.1
 Flow Gateway: "https://api.github.com/repos/onflow/flow-evm-gateway/releases": v1.3.5
 Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.10.2
@@ -72,7 +72,7 @@ XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 2.6.1
 Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.29.0
 Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": v0.27.0
 Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.53.0
-Grafana: "https://api.github.com/repos/grafana/grafana/releases": v12.2.1
+Grafana: "https://api.github.com/repos/grafana/grafana/releases": v12.3.0
 Loki: "https://api.github.com/repos/grafana/loki/releases": v3.6.0
 Postgres: "https://api.github.com/repos/prometheus-community/postgres_exporter/releases": v0.18.1
 Prometheus: "https://api.github.com/repos/prometheus/prometheus/releases": v3.7.3
