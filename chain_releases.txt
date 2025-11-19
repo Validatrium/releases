@@ -68,7 +68,7 @@ Uptick: "https://api.github.com/repos/UptickNetwork/uptick/releases": v0.3.0
 Vara: "https://api.github.com/repos/gear-tech/gear/releases": build
 Xion: "https://api.github.com/repos/burnt-labs/xion/releases": v25.0.1
 XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v9.0.1-rc.1
-XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 2.6.1
+XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 2.6.2
 Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.29.0
 Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": v0.27.0
 Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.53.0
