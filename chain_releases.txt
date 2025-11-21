@@ -50,7 +50,7 @@ Optimism Geth: "https://api.github.com/repos/ethereum-optimism/op-geth/releases"
 Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases": op-node/v1.16.2
 Optimum: "https://api.github.com/repos/getoptimum/mump2p-cli/releases": v0.0.1-rc8
 Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.0
-Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.5.0-beta
+Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.4.5-beta
 Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.5.2-beta2
 Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": consensus-v41
 Prysm: "https://api.github.com/repos/OffchainLabs/prysm/releases": v7.0.0
@@ -65,7 +65,7 @@ Swisstronik: "https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases"
 Tellor: "https://api.github.com/repos/tellor-io/layer/releases": reporterd/v0.1.2
 Union: "https://api.github.com/repos/unionlabs/union/releases": uniond/v1.2.2
 Uptick: "https://api.github.com/repos/UptickNetwork/uptick/releases": v0.3.0
-Vara: "https://api.github.com/repos/gear-tech/gear/releases": v1.9.9
+Vara: "https://api.github.com/repos/gear-tech/gear/releases": build
 Xion: "https://api.github.com/repos/burnt-labs/xion/releases": v25.0.1
 XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v9.0.1-rc.1
 XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 2.6.2
