@@ -71,7 +71,7 @@ XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v9.0.1-rc.1
 XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 2.6.2
 Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.29.0
 Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": v0.27.0
-Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.54.0
+Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.54.1
 Grafana: "https://api.github.com/repos/grafana/grafana/releases": v12.3.0
 Loki: "https://api.github.com/repos/grafana/loki/releases": v3.6.2
 Postgres: "https://api.github.com/repos/prometheus-community/postgres_exporter/releases": v0.18.1
