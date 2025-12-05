@@ -8,7 +8,7 @@ Axelar Tofnd: "https://api.github.com/repos/axelarnetwork/tofnd/releases": v1.0.
 CosmoWasm: "https://api.github.com/repos/CosmWasm/wasmvm/releases": v3.0.2
 Bitsong: "https://api.github.com/repos/bitsongofficial/go-bitsong/releases": v0.23.0
 BSC: "https://api.github.com/repos/bnb-chain/bsc/releases": v1.6.4
-Celestia DA (Plume): "https://api.github.com/repos/celestiaorg/nitro-das-celestia/releases": v0.6.4-mocha
+Celestia DA (Plume): "https://api.github.com/repos/celestiaorg/nitro-das-celestia/releases": v0.7.0-mocha
 Celo Geth: "https://api.github.com/repos/celo-org/op-geth/releases": celo-v2.1.2
 Celo Opt: "https://api.github.com/repos/celo-org/optimism/releases": celo-v2.1.0
 Centrifuge: "https://api.github.com/repos/centrifuge/centrifuge-chain/releases": v0.15.6
@@ -52,7 +52,7 @@ Optimum: "https://api.github.com/repos/getoptimum/mump2p-cli/releases": v0.0.1-r
 Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.0
 Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.5.2
 Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.5.3
-Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": consensus-v41
+Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": v3.9.2-rc.1
 Prysm: "https://api.github.com/repos/OffchainLabs/prysm/releases": v7.0.0
 Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
 Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.9.18
