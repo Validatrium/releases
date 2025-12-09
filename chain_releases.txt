@@ -27,7 +27,7 @@ Flow Gateway: "https://api.github.com/repos/onflow/flow-evm-gateway/releases": v
 Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.11.2
 Fraxtal: "https://api.github.com/repos/FraxFinance/fraxtal-node/releases": mainnet-20251117
 Graph Node: "https://api.github.com/repos/graphprotocol/graph-node/releases": v0.41.1
-Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.25.1
+Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.25.2
 Hedera: "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases": v0.73.1
 Hermes IBC: "https://api.github.com/repos/informalsystems/hermes/releases": v1.13.3
 Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v42.1.0
@@ -58,7 +58,7 @@ Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
 Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.10.0
 Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.1.0-dev.7
 Sophon: "https://api.github.com/repos/sophon-org/sophon-light-node/releases": v0.0.104
-SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.47.0
+SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.48.0
 Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v25.0.0
 Stellar RPC: "https://api.github.com/repos/stellar/stellar-rpc/releases": v24.0.0
 Swisstronik: "https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases": v1.0.1-mainnet
@@ -68,7 +68,7 @@ Uptick: "https://api.github.com/repos/UptickNetwork/uptick/releases": v0.3.0
 Vara: "https://api.github.com/repos/gear-tech/gear/releases": build
 Xion: "https://api.github.com/repos/burnt-labs/xion/releases": v25.0.1
 XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v9.0.1-rc.1
-XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 2.6.2
+XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 3.0.0
 Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.29.0
 Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": v0.28.0
 Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.54.1
