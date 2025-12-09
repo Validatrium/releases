@@ -55,7 +55,7 @@ Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.5.3
 Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": v3.9.2-rc.1
 Prysm: "https://api.github.com/repos/OffchainLabs/prysm/releases": v7.0.1
 Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
-Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.9.18
+Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.10.0
 Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.1.0-dev.7
 Sophon: "https://api.github.com/repos/sophon-org/sophon-light-node/releases": v0.0.104
 SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.47.0
