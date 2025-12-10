@@ -36,7 +36,7 @@ Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.0
 Polkadot: "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2506-6
 Kyve: "https://api.github.com/repos/KYVENetwork/chain/releases": v2.2.0
 Linea: "https://api.github.com/repos/Consensys/linea-besu-package/releases": v0.1.15
-Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": runtime-4001
+Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": v0.49.0
 Namada: "https://api.github.com/repos/namada-net/namada/releases": v101.1.4
 Namada Indexer: "https://api.github.com/repos/namada-net/namada-interface/releases": extension@v0.10.0
 Nym: "https://api.github.com/repos/nymtech/nym/releases": nym-binaries-v2025.21-mozzarella
@@ -69,7 +69,7 @@ Vara: "https://api.github.com/repos/gear-tech/gear/releases": build
 Xion: "https://api.github.com/repos/burnt-labs/xion/releases": v25.0.1
 XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v9.0.1-rc.1
 XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 3.0.0
-Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.29.0
+Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.30.0-rc.0
 Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": v0.28.0
 Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.54.1
 Grafana: "https://api.github.com/repos/grafana/grafana/releases": v12.3.0
