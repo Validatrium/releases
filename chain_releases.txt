@@ -3,9 +3,9 @@ Algorand: "https://api.github.com/repos/algorand/go-algorand/releases": v4.4.1-s
 Archway: "https://api.github.com/repos/archway-network/archway/releases": v10.1.0
 Astar (Shiden): "https://api.github.com/repos/AstarNetwork/Astar/releases": runtime-1900
 Axelar Core: "https://api.github.com/repos/axelarnetwork/axelar-core/releases": v1.3.4
-Axelar Ampd: "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases": sui-handler-v0.1.0
+Axelar Ampd: "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases": ampd-v1.14.0
 Axelar Tofnd: "https://api.github.com/repos/axelarnetwork/tofnd/releases": v1.0.1
-CosmoWasm: "https://api.github.com/repos/CosmWasm/wasmvm/releases": v2.3.0
+CosmoWasm: "https://api.github.com/repos/CosmWasm/wasmvm/releases": v2.3.1
 Bitsong: "https://api.github.com/repos/bitsongofficial/go-bitsong/releases": v0.23.0
 BSC: "https://api.github.com/repos/bnb-chain/bsc/releases": v1.6.4
 Celestia DA (Plume): "https://api.github.com/repos/celestiaorg/nitro-das-celestia/releases": v0.7.0-mocha
