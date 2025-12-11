@@ -27,7 +27,7 @@ Flow Gateway: "https://api.github.com/repos/onflow/flow-evm-gateway/releases": v
 Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.12.0
 Fraxtal: "https://api.github.com/repos/FraxFinance/fraxtal-node/releases": mainnet-20251117
 Graph Node: "https://api.github.com/repos/graphprotocol/graph-node/releases": v0.41.1
-Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.25.2
+Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.25.3
 Hedera: "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases": v0.73.1
 Hermes IBC: "https://api.github.com/repos/informalsystems/hermes/releases": v1.13.3
 Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v42.1.0
