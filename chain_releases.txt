@@ -2,7 +2,7 @@ Aleph-Zero: "https://api.github.com/repos/Cardinal-Cryptography/aleph-node/relea
 Algorand: "https://api.github.com/repos/algorand/go-algorand/releases": v4.4.1-stable
 Archway: "https://api.github.com/repos/archway-network/archway/releases": v10.1.0
 Astar (Shiden): "https://api.github.com/repos/AstarNetwork/Astar/releases": runtime-1900
-Axelar Core: "https://api.github.com/repos/axelarnetwork/axelar-core/releases": v1.3.4
+Axelar Core: "https://api.github.com/repos/axelarnetwork/axelar-core/releases": v1.3.6
 Axelar Ampd: "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases": ampd-v1.14.1
 Axelar Tofnd: "https://api.github.com/repos/axelarnetwork/tofnd/releases": v1.0.1
 CosmoWasm: "https://api.github.com/repos/CosmWasm/wasmvm/releases": v2.3.1
@@ -58,7 +58,7 @@ Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
 Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.10.0
 Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.1.0-dev.7
 Sophon: "https://api.github.com/repos/sophon-org/sophon-light-node/releases": v0.0.104
-SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.48.1
+SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.48.2
 Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v25.0.0
 Stellar RPC: "https://api.github.com/repos/stellar/stellar-rpc/releases": v25.0.0
 Swisstronik: "https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases": v1.0.1-mainnet
