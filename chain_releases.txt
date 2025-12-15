@@ -69,7 +69,7 @@ Vara: "https://api.github.com/repos/gear-tech/gear/releases": build
 Xion: "https://api.github.com/repos/burnt-labs/xion/releases": v25.0.1
 XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v9.0.1
 XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 3.0.0
-Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.30.0-rc.0
+Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.30.0
 Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": v0.28.0
 Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.54.1
 Grafana: "https://api.github.com/repos/grafana/grafana/releases": v12.3.0
