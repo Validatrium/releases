@@ -36,7 +36,7 @@ Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.0
 Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2509-3
 Kyve: "https://api.github.com/repos/KYVENetwork/chain/releases": v2.2.0
 Linea: "https://api.github.com/repos/Consensys/linea-besu-package/releases": v0.1.15
-Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": runtime-4100
+Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": v0.49.1
 Namada: "https://api.github.com/repos/namada-net/namada/releases": v101.1.4
 Namada Indexer: "https://api.github.com/repos/namada-net/namada-interface/releases": extension@v0.10.0
 Nym: "https://api.github.com/repos/nymtech/nym/releases": nym-binaries-v2025.21-mozzarella
