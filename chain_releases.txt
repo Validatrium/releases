@@ -51,7 +51,7 @@ Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases
 Optimum: "https://api.github.com/repos/getoptimum/mump2p-cli/releases": v0.0.1-rc8
 Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.0
 Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.5.3
-Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.5.6-beta3
+Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.5.6-beta4
 Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": v3.9.2-rc.1
 Prysm: "https://api.github.com/repos/OffchainLabs/prysm/releases": v7.1.0
 Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
