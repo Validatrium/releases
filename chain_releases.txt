@@ -53,7 +53,7 @@ Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.0
 Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.5.4
 Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.5.6-beta4
 Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": v3.9.2-rc.1
-Prysm: "https://api.github.com/repos/OffchainLabs/prysm/releases": v7.1.0
+Prysm: "https://api.github.com/repos/OffchainLabs/prysm/releases": v7.1.1
 Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
 Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.10.0
 Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.1.0-dev.7
@@ -71,7 +71,7 @@ XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v9.0.1
 XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 3.0.0
 Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.30.0
 Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": v0.28.0
-Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.54.1
+Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.55.0
 Grafana: "https://api.github.com/repos/grafana/grafana/releases": v12.3.1
 Loki: "https://api.github.com/repos/grafana/loki/releases": v3.6.3
 Postgres: "https://api.github.com/repos/prometheus-community/postgres_exporter/releases": v0.18.1
