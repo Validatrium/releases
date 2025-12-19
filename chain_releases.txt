@@ -3,9 +3,9 @@ Algorand: "https://api.github.com/repos/algorand/go-algorand/releases": v4.4.1-s
 Archway: "https://api.github.com/repos/archway-network/archway/releases": v10.1.0
 Astar (Shiden): "https://api.github.com/repos/AstarNetwork/Astar/releases": runtime-1900
 Axelar Core: "https://api.github.com/repos/axelarnetwork/axelar-core/releases": v1.3.6
-Axelar Ampd: "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases": ampd-v1.14.1
+Axelar Ampd: "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases": xrpl-handler-v0.1.1
 Axelar Tofnd: "https://api.github.com/repos/axelarnetwork/tofnd/releases": v1.0.1
-CosmoWasm: "https://api.github.com/repos/CosmWasm/wasmvm/releases": v2.3.1
+CosmoWasm: "https://api.github.com/repos/CosmWasm/wasmvm/releases": v2.2.5-rc.0
 Bitsong: "https://api.github.com/repos/bitsongofficial/go-bitsong/releases": v0.23.0
 BSC: "https://api.github.com/repos/bnb-chain/bsc/releases": v1.6.5
 Celestia DA (Plume): "https://api.github.com/repos/celestiaorg/nitro-das-celestia/releases": v0.7.0-mocha
@@ -36,7 +36,7 @@ Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.0
 Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2509-3
 Kyve: "https://api.github.com/repos/KYVENetwork/chain/releases": v2.2.0
 Linea: "https://api.github.com/repos/Consensys/linea-besu-package/releases": v0.1.15
-Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": v0.49.1
+Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": v0.49.2
 Namada: "https://api.github.com/repos/namada-net/namada/releases": v101.1.4
 Namada Indexer: "https://api.github.com/repos/namada-net/namada-interface/releases": extension@v0.10.0
 Nym: "https://api.github.com/repos/nymtech/nym/releases": nym-binaries-v2025.21-mozzarella
