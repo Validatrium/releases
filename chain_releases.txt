@@ -5,7 +5,7 @@ Astar (Shiden): "https://api.github.com/repos/AstarNetwork/Astar/releases": runt
 Axelar Core: "https://api.github.com/repos/axelarnetwork/axelar-core/releases": v1.3.6
 Axelar Ampd: "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases": xrpl-handler-v0.1.1
 Axelar Tofnd: "https://api.github.com/repos/axelarnetwork/tofnd/releases": v1.0.1
-CosmoWasm: "https://api.github.com/repos/CosmWasm/wasmvm/releases": v2.2.5-rc.0
+CosmoWasm: "https://api.github.com/repos/CosmWasm/wasmvm/releases": v2.2.5-rc.2
 Bitsong: "https://api.github.com/repos/bitsongofficial/go-bitsong/releases": v0.23.0
 BSC: "https://api.github.com/repos/bnb-chain/bsc/releases": v1.6.5
 Celestia DA (Plume): "https://api.github.com/repos/celestiaorg/nitro-das-celestia/releases": v0.7.0-mocha
@@ -47,7 +47,7 @@ Oasis Cipher: "https://api.github.com/repos/oasisprotocol/cipher-paratime/releas
 Oasis Emerald: "https://api.github.com/repos/oasisprotocol/emerald-paratime/releases": v11.0.0
 Oasis Keymanager: "https://api.github.com/repos/oasisprotocol/keymanager-paratime/releeases": 1
 Optimism Geth: "https://api.github.com/repos/ethereum-optimism/op-geth/releases": v1.101603.5
-Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases": op-deployer/v0.5.2
+Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases": op-batcher/v1.16.3
 Optimum: "https://api.github.com/repos/getoptimum/mump2p-cli/releases": v0.0.1-rc8
 Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.0
 Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.5.4
