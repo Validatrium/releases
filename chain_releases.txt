@@ -59,7 +59,7 @@ Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-
 Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.1.0-dev.7
 Sophon: "https://api.github.com/repos/sophon-org/sophon-light-node/releases": v0.0.104
 SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.48.2
-Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v25.0.0
+Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v25.0.1rc1
 Stellar RPC: "https://api.github.com/repos/stellar/stellar-rpc/releases": v25.0.0
 Swisstronik: "https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases": v1.0.1-mainnet
 Tellor: "https://api.github.com/repos/tellor-io/layer/releases": reporterd/v0.1.2
@@ -71,7 +71,7 @@ XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v9.0.1
 XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 3.0.0
 Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.30.0
 Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": v0.28.0
-Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.55.0
+Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.55.1
 Grafana: "https://api.github.com/repos/grafana/grafana/releases": v12.3.1
 Loki: "https://api.github.com/repos/grafana/loki/releases": v3.6.3
 Postgres: "https://api.github.com/repos/prometheus-community/postgres_exporter/releases": v0.18.1
