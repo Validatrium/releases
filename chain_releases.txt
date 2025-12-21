@@ -30,7 +30,7 @@ Graph Node: "https://api.github.com/repos/graphprotocol/graph-node/releases": v0
 Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.25.5
 Hedera: "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases": v0.73.1
 Hermes IBC: "https://api.github.com/repos/informalsystems/hermes/releases": v1.13.3
-Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v42.1.0
+Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v42.1.1
 Juno: "https://api.github.com/repos/CosmosContracts/juno/releases": v29.0.0
 Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.0
 Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2509-3
