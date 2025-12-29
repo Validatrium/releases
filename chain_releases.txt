@@ -24,7 +24,7 @@ Farcaster: "https://api.github.com/repos/farcasterxyz/protocol/releases": v2023.
 FetchAI: "https://api.github.com/repos/fetchai/fetchd/releases": v0.15.0-rc1
 Filecoin: "https://api.github.com/repos/filecoin-project/lotus/releases": v1.34.4-rc1
 Flow Gateway: "https://api.github.com/repos/onflow/flow-evm-gateway/releases": v1.4.4
-Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.13.2
+Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.13.3-prerelease.0
 Fraxtal: "https://api.github.com/repos/FraxFinance/fraxtal-node/releases": mainnet-20251117
 Graph Node: "https://api.github.com/repos/graphprotocol/graph-node/releases": v0.41.1
 Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.25.5
