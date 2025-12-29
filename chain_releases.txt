@@ -24,7 +24,7 @@ Farcaster: "https://api.github.com/repos/farcasterxyz/protocol/releases": v2023.
 FetchAI: "https://api.github.com/repos/fetchai/fetchd/releases": v0.15.0-rc1
 Filecoin: "https://api.github.com/repos/filecoin-project/lotus/releases": v1.34.4-rc1
 Flow Gateway: "https://api.github.com/repos/onflow/flow-evm-gateway/releases": v1.4.4
-Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.13.3-prerelease.1
+Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.13.3
 Fraxtal: "https://api.github.com/repos/FraxFinance/fraxtal-node/releases": mainnet-20251117
 Graph Node: "https://api.github.com/repos/graphprotocol/graph-node/releases": v0.41.1
 Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.25.5
@@ -32,7 +32,7 @@ Hedera: "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases
 Hermes IBC: "https://api.github.com/repos/informalsystems/hermes/releases": v1.13.3
 Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v42.1.1
 Juno: "https://api.github.com/repos/CosmosContracts/juno/releases": v29.0.0
-Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.0
+Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.1
 Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2512
 Kyve: "https://api.github.com/repos/KYVENetwork/chain/releases": v2.2.0
 Linea: "https://api.github.com/repos/Consensys/linea-besu-package/releases": v0.1.15
