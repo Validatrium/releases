@@ -33,7 +33,7 @@ Hermes IBC: "https://api.github.com/repos/informalsystems/hermes/releases": v1.1
 Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v43.0.2
 Juno: "https://api.github.com/repos/CosmosContracts/juno/releases": v29.0.0
 Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.1
-Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2506-7
+Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2509-4
 Kyve: "https://api.github.com/repos/KYVENetwork/chain/releases": v2.2.0
 Linea: "https://api.github.com/repos/Consensys/linea-besu-package/releases": v0.1.15
 Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": v0.49.3
@@ -55,14 +55,14 @@ Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.5.7
 Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": v3.9.2-rc.1
 Prysm: "https://api.github.com/repos/OffchainLabs/prysm/releases": v7.1.2
 Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
-Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.10.0
+Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.10.2
 Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.1.0-dev.7
 Sophon: "https://api.github.com/repos/sophon-org/sophon-light-node/releases": v0.0.104
 SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.50.1
 Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v25.1.0rc2
 Stellar RPC: "https://api.github.com/repos/stellar/stellar-rpc/releases": v25.0.0
 Swisstronik: "https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases": v1.0.1-mainnet
-Tellor: "https://api.github.com/repos/tellor-io/layer/releases": reporterd/v0.1.3
+Tellor: "https://api.github.com/repos/tellor-io/layer/releases": v6.1.1
 Union: "https://api.github.com/repos/unionlabs/union/releases": uniond/v1.2.2
 Uptick: "https://api.github.com/repos/UptickNetwork/uptick/releases": v0.3.0
 Vara: "https://api.github.com/repos/gear-tech/gear/releases": build
