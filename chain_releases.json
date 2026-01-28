@@ -1,0 +1,74 @@
+{
+  "Astar (Shiden)": {
+    "url": "https://api.github.com/repos/AstarNetwork/Astar/releases",
+    "version": "v5.48.0",
+    "note": ""
+  },
+  "Erigon": {
+    "url": "https://api.github.com/repos/erigontech/erigon/releases",
+    "version": "v3.3.2",
+    "note": ""
+  },
+  "Hedera": {
+    "url": "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases",
+    "version": "v0.73.1",
+    "note": ""
+  },
+  "Plume": {
+    "url": "https://api.github.com/repos/OffchainLabs/nitro/releases",
+    "version": "v3.9.4",
+    "note": ""
+  },
+  "Prysm": {
+    "url": "https://api.github.com/repos/OffchainLabs/prysm/releases",
+    "version": "v7.1.2-rc.0",
+    "note": ""
+  },
+  "XRPL-EVM": {
+    "url": "https://api.github.com/repos/xrplevm/node/releases",
+    "version": "v9.0.1",
+    "note": ""
+  },
+  "XRPL": {
+    "url": "https://api.github.com/repos/XRPLF/rippled/releases",
+    "version": "3.0.0",
+    "note": ""
+  },
+  "Vara": {
+    "url": "https://api.github.com/repos/gear-tech/gear/releases",
+    "version": "build",
+    "note": ""
+  },
+  "Alertmanager": {
+    "url": "https://api.github.com/repos/prometheus/alertmanager/releases",
+    "version": "v0.30.0",
+    "note": ""
+  },
+  "Grafana": {
+    "url": "https://api.github.com/repos/grafana/grafana/releases",
+    "version": "v12.3.1",
+    "note": ""
+  },
+  "Loki": {
+    "url": "https://api.github.com/repos/grafana/loki/releases",
+    "version": "v3.6.3",
+    "note": ""
+  },
+  "Postgres Exporter": {
+    "url": "https://api.github.com/repos/prometheus-community/postgres_exporter/releases",
+    "version": "v0.18.1",
+    "note": ""
+  },
+  "Prometheus": {
+    "url": "https://api.github.com/repos/prometheus/prometheus/releases",
+    "version": "v3.9.0-rc.0",
+    "note": ""
+  },
+  "Uptime Kuma": {
+    "url": "https://api.github.com/repos/louislam/uptime-kuma/releases",
+    "version": "2.1.0-beta.2",
+    "note": ""
+  }
+}
+
+
