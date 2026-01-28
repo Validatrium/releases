@@ -33,7 +33,7 @@ Hermes IBC: "https://api.github.com/repos/informalsystems/hermes/releases": v1.1
 Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v43.0.3
 Juno: "https://api.github.com/repos/CosmosContracts/juno/releases": v29.0.0
 Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.2
-Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2512-1
+Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": unstable-bulletin-support-v1
 Kyve: "https://api.github.com/repos/KYVENetwork/chain/releases": v2.2.0
 Linea: "https://api.github.com/repos/Consensys/linea-besu-package/releases": v0.1.15
 Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": v0.49.3
