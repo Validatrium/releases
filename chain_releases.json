@@ -6,7 +6,7 @@
   },
   "Erigon": {
     "url": "https://api.github.com/repos/erigontech/erigon/releases",
-    "version": "v3.3.4",
+    "version": "v3.3.7",
     "note": ""
   },
   "Hedera": {
