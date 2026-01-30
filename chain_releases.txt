@@ -66,7 +66,7 @@ Tellor: "https://api.github.com/repos/tellor-io/layer/releases": v6.1.1
 Union: "https://api.github.com/repos/unionlabs/union/releases": uniond/v1.2.3
 Uptick: "https://api.github.com/repos/UptickNetwork/uptick/releases": v0.3.0
 Vara: "https://api.github.com/repos/gear-tech/gear/releases": v1.10.0
-Xion: "https://api.github.com/repos/burnt-labs/xion/releases": v26.0.0-rc1
+Xion: "https://api.github.com/repos/burnt-labs/xion/releases": v26.1.0-rc2
 XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v9.0.3
 XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 3.1.0
 Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.30.1
