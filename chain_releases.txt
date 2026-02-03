@@ -18,7 +18,7 @@ Crossfi: "https://api.github.com/repos/crossfichain/crossfi-node/releases": v0.4
 Dymension: "https://api.github.com/repos/dymensionxyz/dymension/releases": v4.0.2
 Elys: "https://api.github.com/repos/elys-network/elys/releases": v6.8.0
 Erigon: "https://api.github.com/repos/erigontech/erigon/releases": v3.3.7
-Espreso: "https://api.github.com/repos/EspressoSystems/espresso-network/releases": 20260130-mainnet-pos-contract-deploy
+Espreso: "https://api.github.com/repos/EspressoSystems/espresso-network/releases": 20260203-staking-cli-mainnet
 Geth: "https://api.github.com/repos/ethereum/go-ethereum/releases": v1.16.8
 Farcaster: "https://api.github.com/repos/farcasterxyz/protocol/releases": v2023.7.12
 FetchAI: "https://api.github.com/repos/fetchai/fetchd/releases": v0.15.0-rc1
