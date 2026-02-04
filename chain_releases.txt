@@ -58,7 +58,7 @@ Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
 Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.10.2
 Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.0.7
 Sophon: "https://api.github.com/repos/sophon-org/sophon-light-node/releases": v0.0.104
-SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.55.2
+SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.55.3
 Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v25.1.0
 Stellar RPC: "https://api.github.com/repos/stellar/stellar-rpc/releases": v25.0.0
 Swisstronik: "https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases": v1.0.1-mainnet
@@ -74,6 +74,6 @@ Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": 
 Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.56.2
 Grafana: "https://api.github.com/repos/grafana/grafana/releases": v12.3.2
 Loki: "https://api.github.com/repos/grafana/loki/releases": v3.6.4
-Postgres: "https://api.github.com/repos/prometheus-community/postgres_exporter/releases": v0.18.1
+Postgres: "https://api.github.com/repos/prometheus-community/postgres_exporter/releases": v0.19.0
 Prometheus: "https://api.github.com/repos/prometheus/prometheus/releases": v3.5.1
 Systemd Exporter: ":"https://api.github.com/repos/prometheus-community/systemd_exporter/releases": 1
