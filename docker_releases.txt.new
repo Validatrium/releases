@@ -1,7 +1,7 @@
 Astar (Shiden): https://hub.docker.com/v2/repositories/staketechnologies/astar-collator/tags: sha256:d8bd59b5879e2371f1045e6e3fdf7dab959cb26ff9c5b3b8092c0f52438a6a3f
 Plume: https://hub.docker.com/v2/repositories/offchainlabs/nitro-node/tags: sha256:bf59025b40932b26d440f963ac591ad0fd4493a79181bd941decef43f949f2a2
 XRPL: https://hub.docker.com/v2/repositories/xrpllabsofficial/xrpld/tags: sha256:36764ebf0535dbf0113920a6122513bc48c16315f8505663b35920426a4ed598
-
+HYDRA https://hub.docker.com/v2/repositories/galacticcouncil/hydra-dx/tags: sha256:72c73d9a6cc526e83e251f6a93946f2c46292b3e88c4eb7ab6d07d904ff3fc23
 
 
 

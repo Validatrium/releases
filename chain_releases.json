@@ -14,6 +14,21 @@
     "version": "v0.74.1",
     "note": ""
   },
+  "Hydration": {
+    "url": "https://api.github.com/repos/galacticcouncil/hydration-node/releases",
+    "version": "v43.0.3",
+    "note": ""
+  },
+  "Polygon Bor": {
+    "url": "https://api.github.com/repos/0xPolygon/bor/releases",
+    "version": "v2.6.0-beta",
+    "note": ""
+  },
+  "Polygon Heimdall": {
+    "url": "https://api.github.com/repos/0xPolygon/heimdall-v2/releases",
+    "version": "v0.6.0",
+    "note": ""
+  },
   "Plume": {
     "url": "https://api.github.com/repos/OffchainLabs/nitro/releases",
     "version": "v3.10.0-rc.1",
