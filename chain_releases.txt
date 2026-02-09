@@ -13,7 +13,7 @@ Celo Geth: "https://api.github.com/repos/celo-org/op-geth/releases": celo-v2.1.3
 Celo Opt: "https://api.github.com/repos/celo-org/optimism/releases": celo-v2.1.1
 Centrifuge: "https://api.github.com/repos/centrifuge/centrifuge-chain/releases": v0.15.6
 Comebft: "https://api.github.com/repos/cometbft/cometbft/releases": v0.38.21
-CosmosHub: "https://api.github.com/repos/cosmos/gaia/releases": v26.0.0-rc0
+CosmosHub: "https://api.github.com/repos/cosmos/gaia/releases": v26.0.0
 Crossfi: "https://api.github.com/repos/crossfichain/crossfi-node/releases": v0.4.0
 Dymension: "https://api.github.com/repos/dymensionxyz/dymension/releases": v4.0.2
 Elys: "https://api.github.com/repos/elys-network/elys/releases": v6.8.0
