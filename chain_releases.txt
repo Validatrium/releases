@@ -59,7 +59,7 @@ Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-
 Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.0.7
 Sophon: "https://api.github.com/repos/sophon-org/sophon-light-node/releases": v0.0.104
 SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.55.4
-Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v25.1.0
+Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v25.1.1
 Stellar RPC: "https://api.github.com/repos/stellar/stellar-rpc/releases": v25.0.0
 Swisstronik: "https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases": v1.0.1-mainnet
 Tellor: "https://api.github.com/repos/tellor-io/layer/releases": v6.1.1
