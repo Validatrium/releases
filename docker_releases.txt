@@ -1,9 +1,9 @@
 Analog: https://hub.docker.com/v2/repositories/analoglabs/timenode-prod/tags: sha256:7b97d2d138bbd7feeddcad923dda249f5f1a8af4630e753bb909059073e263f1
 Astar (Shiden): https://hub.docker.com/v2/repositories/staketechnologies/astar-collator/tags: sha256:5d3426fa33b4656be02fa50250e666d18d42e868dcc430be984897fb429f5599
-Avalanche: https://hub.docker.com/v2/repositories/avaplatform/avalanchego/tags: sha256:47b928874ce572864095ca08bf11e5353272f836b532375c2a3b8e2989255a0e
+Avalanche: https://hub.docker.com/v2/repositories/avaplatform/avalanchego/tags: sha256:377f0402c0cd4ba0e591d3436276833bdb8d69eae6a3e287a71452e836a3028c
 Blast: https://hub.docker.com/v2/repositories/blastio/blast-geth/tags: sha256:013132c5ec4c7542b96c4ecdc6587ffe9036fa1204a9a9a65686cc4d6e21952c
 Centrifuge: https://hub.docker.com/v2/repositories/centrifugeio/centrifuge-chain/tags: sha256:deb4f698b07929a24fcd24221777b8c1dd8735a6fff22ae12a17b35d90f2cdbe
-Linea: https://hub.docker.com/v2/repositories/consensys/linea-besu-package/tags: sha256:332502716e09b839e6c3b31ce3f7f9c5a63c41b0bc7814b62d92a3b63287c4f2
+Linea: https://hub.docker.com/v2/repositories/consensys/linea-besu-package/tags: sha256:9ec5cc0c258871ffec6570395bdc4d298e448bb1f9ae96fd207f92952a14dfef
 Maru: https://hub.docker.com/v2/repositories/consensys/maru/tags: sha256:5fc4022cb36e1367229d2629b0103fd9e5b4de5a68eac11e6ca93de885ef5e2b
 Mantle: https://hub.docker.com/v2/repositories/mantlenetworkio/mantle-op-geth/tags: sha256:acb0cfed9dc1c85e5920e0684674bb156989c6228eb8fbae767674384f319fc9
 Moonbeam: https://hub.docker.com/v2/repositories/moonbeamfoundation/moonbeam/tags: sha256:56a73da573dc156ef96ad3e5a40558df208d8053d17638a9645c6a100493340b
