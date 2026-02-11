@@ -31,7 +31,7 @@
   },
   "Plume": {
     "url": "https://api.github.com/repos/OffchainLabs/nitro/releases",
-    "version": "v3.10.0-rc.1",
+    "version": "v3.10.0-rc.2",
     "note": ""
   },
   "Prysm": {
@@ -56,7 +56,7 @@
   },
   "Alertmanager": {
     "url": "https://api.github.com/repos/prometheus/alertmanager/releases",
-    "version": "v0.31.0",
+    "version": "v0.31.1",
     "note": ""
   },
   "Grafana": {
