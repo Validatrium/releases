@@ -61,7 +61,7 @@
   },
   "Grafana": {
     "url": "https://api.github.com/repos/grafana/grafana/releases",
-    "version": "v11.6.10+security-01",
+    "version": "v12.1.6+security-01",
     "note": ""
   },
   "Loki and Promtail": {
