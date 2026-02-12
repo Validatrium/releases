@@ -4,6 +4,26 @@
     "version": "v5.48.1",
     "note": ""
   },
+  "Axelar Core": {
+    "url": "https://api.github.com/repos/axelarnetwork/axelar-core/releases",
+    "version": "v1.3.9",
+    "note": ""
+  },
+  "Axelar Ampd": {
+    "url": "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases",
+    "version": "solana-handler-v0.1.2",
+    "note": ""
+  },
+  "Axelar Tofnd": {
+    "url": "https://api.github.com/repos/axelarnetwork/tofnd/releases",
+    "version": "v1.0.1",
+    "note": ""
+  },
+  "CosmoWasm": {
+    "url": "https://api.github.com/repos/CosmWasm/wasmvm/releases",
+    "version": "v3.0.3",
+    "note": "Axelar Library. Update only after official announcement "
+  },
   "Erigon": {
     "url": "https://api.github.com/repos/erigontech/erigon/releases",
     "version": "v3.3.7",
