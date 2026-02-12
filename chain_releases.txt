@@ -33,7 +33,7 @@ Hermes IBC: "https://api.github.com/repos/informalsystems/hermes/releases": v1.1
 Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v44.0.0
 Juno: "https://api.github.com/repos/CosmosContracts/juno/releases": v29.0.0
 Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.2
-Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2512-2-rc1
+Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2509-5
 Kyve: "https://api.github.com/repos/KYVENetwork/chain/releases": v2.2.0
 Linea: "https://api.github.com/repos/Consensys/linea-besu-package/releases": v0.1.15
 Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": runtime-4201
@@ -72,7 +72,7 @@ XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 3.1.0
 Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.31.1
 Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": v0.28.0
 Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.56.2
-Grafana: "https://api.github.com/repos/grafana/grafana/releases": v12.3.2+security-01
+Grafana: "https://api.github.com/repos/grafana/grafana/releases": v12.2.5
 Loki: "https://api.github.com/repos/grafana/loki/releases": v3.5.10
 Postgres: "https://api.github.com/repos/prometheus-community/postgres_exporter/releases": v0.19.0
 Prometheus: "https://api.github.com/repos/prometheus/prometheus/releases": v3.5.1
