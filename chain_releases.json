@@ -19,6 +19,11 @@
     "version": "v1.0.1",
     "note": ""
   },
+  "Binance": {
+    "url": "https://api.github.com/repos/bnb-chain/bsc/releases",
+    "version": "v1.7.0-alpha",
+    "note": "Docker image: https://github.com/bnb-chain/bsc/pkgs/container/bsc !- Check before update - https://publicnode.com/snapshots#bsc"
+  },
   "CosmoWasm": {
     "url": "https://api.github.com/repos/CosmWasm/wasmvm/releases",
     "version": "v3.0.3",
