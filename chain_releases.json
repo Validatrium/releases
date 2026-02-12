@@ -2,7 +2,7 @@
   "Astar (Shiden)": {
     "url": "https://api.github.com/repos/AstarNetwork/Astar/releases",
     "version": "v5.48.1",
-    "note": ""
+    "note": "Docker image: https://hub.docker.com/r/staketechnologies/astar-collator/tags"
   },
   "Axelar Core": {
     "url": "https://api.github.com/repos/axelarnetwork/axelar-core/releases",
@@ -32,12 +32,12 @@
   "Hedera": {
     "url": "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases",
     "version": "v0.74.1",
-    "note": ""
+    "note": "Docker image: https://github.com/hiero-ledger/hiero-json-rpc-relay/pkgs/container/hiero-json-rpc-relay"
   },
   "Hydration": {
     "url": "https://api.github.com/repos/galacticcouncil/hydration-node/releases",
     "version": "v44.0.0",
-    "note": ""
+    "note": "Docker image: https://hub.docker.com/r/galacticcouncil/hydra-dx/tags"
   },
   "Polygon Bor": {
     "url": "https://api.github.com/repos/0xPolygon/bor/releases",
@@ -52,7 +52,7 @@
   "Plume": {
     "url": "https://api.github.com/repos/OffchainLabs/nitro/releases",
     "version": "v3.10.0-rc.2",
-    "note": ""
+    "note": "Docker image: https://hub.docker.com/r/offchainlabs/nitro-node/tags"
   },
   "Prysm": {
     "url": "https://api.github.com/repos/OffchainLabs/prysm/releases",
@@ -67,12 +67,12 @@
   "XRPL": {
     "url": "https://api.github.com/repos/XRPLF/rippled/releases",
     "version": "3.1.0",
-    "note": ""
+    "note": "Docker image: https://hub.docker.com/r/xrpllabsofficial/xrpld/tags"
   },
   "Vara": {
     "url": "https://api.github.com/repos/gear-tech/gear/releases",
     "version": "build",
-    "note": ""
+    "note": "Docker image: https://github.com/gear-tech/gear/pkgs/container/node"
   },
   "Alertmanager": {
     "url": "https://api.github.com/repos/prometheus/alertmanager/releases",
