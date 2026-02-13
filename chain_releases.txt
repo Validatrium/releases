@@ -47,11 +47,11 @@ Oasis Cipher: "https://api.github.com/repos/oasisprotocol/cipher-paratime/releas
 Oasis Emerald: "https://api.github.com/repos/oasisprotocol/emerald-paratime/releases": v11.0.0
 Oasis Keymanager: "https://api.github.com/repos/oasisprotocol/keymanager-paratime/releeases": 1
 Optimism Geth: "https://api.github.com/repos/ethereum-optimism/op-geth/releases": v1.101608.0
-Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases": op-node/v1.16.6
+Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases": op-batcher/v1.16.4
 Optimum: "https://api.github.com/repos/getoptimum/mump2p-cli/releases": v0.0.1-rc8
 Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.1
 Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.6.0
-Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.6.0-beta
+Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.6.0-beta2
 Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": v3.9.2-rc.1
 Prysm: "https://api.github.com/repos/OffchainLabs/prysm/releases": v7.1.2
 Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
