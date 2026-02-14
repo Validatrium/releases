@@ -46,7 +46,7 @@
   },
   "Polygon Bor": {
     "url": "https://api.github.com/repos/0xPolygon/bor/releases",
-    "version": "v2.6.0-beta",
+    "version": "v2.6.0-beta2",
     "note": ""
   },
   "Polygon Heimdall": {
@@ -56,7 +56,7 @@
   },
   "Plume": {
     "url": "https://api.github.com/repos/OffchainLabs/nitro/releases",
-    "version": "v3.9.6-rc.1",
+    "version": "consensus-v51.1-rc.1",
     "note": "Docker image: https://hub.docker.com/r/offchainlabs/nitro-node/tags"
   },
   "Prysm": {
@@ -106,7 +106,7 @@
   },
   "Uptime Kuma": {
     "url": "https://api.github.com/repos/louislam/uptime-kuma/releases",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "note": ""
   }
 }
