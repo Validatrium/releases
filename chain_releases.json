@@ -36,7 +36,7 @@
   },
   "Hedera": {
     "url": "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases",
-    "version": "v0.74.1",
+    "version": "v0.75.0-rc1",
     "note": "Docker image: https://github.com/hiero-ledger/hiero-json-rpc-relay/pkgs/container/hiero-json-rpc-relay"
   },
   "Hydration": {
