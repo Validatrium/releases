@@ -34,6 +34,11 @@
     "version": "v3.3.7",
     "note": ""
   },
+  "Filecoin": {
+    "url": "https://api.github.com/repos/filecoin-project/lotus/releases",
+    "version": "v1.34.4",
+    "note": "Docker image: https://hub.docker.com/r/filecoin/lotus/tags"
+  },
   "Hedera": {
     "url": "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases",
     "version": "v0.75.0-rc1",
