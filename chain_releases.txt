@@ -1,8 +1,8 @@
 Aleph-Zero: "https://api.github.com/repos/Cardinal-Cryptography/aleph-node/releases": r-15.2.0
 Algorand: "https://api.github.com/repos/algorand/go-algorand/releases": v4.5.1-stable
 Archway: "https://api.github.com/repos/archway-network/archway/releases": v10.1.1-tachyon-security-patch
-Astar (Shiden): "https://api.github.com/repos/AstarNetwork/Astar/releases": v5.48.1
-Axelar Core: "https://api.github.com/repos/axelarnetwork/axelar-core/releases": v1.3.10
+Astar (Shiden): "https://api.github.com/repos/AstarNetwork/Astar/releases": runtime-2100
+Axelar Core: "https://api.github.com/repos/axelarnetwork/axelar-core/releases": v1.4.0
 Axelar Ampd: "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases": solana-handler-v0.1.2
 Axelar Tofnd: "https://api.github.com/repos/axelarnetwork/tofnd/releases": v1.0.1
 CosmoWasm: "https://api.github.com/repos/CosmWasm/wasmvm/releases": v3.0.3
