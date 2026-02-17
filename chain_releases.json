@@ -6,7 +6,7 @@
   },
   "Axelar Core": {
     "url": "https://api.github.com/repos/axelarnetwork/axelar-core/releases",
-    "version": "v1.3.9",
+    "version": "v1.3.10",
     "note": ""
   },
   "Axelar Ampd": {
