@@ -7,7 +7,7 @@ Axelar Ampd: "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releas
 Axelar Tofnd: "https://api.github.com/repos/axelarnetwork/tofnd/releases": v1.0.1
 CosmoWasm: "https://api.github.com/repos/CosmWasm/wasmvm/releases": v3.0.3
 Bitsong: "https://api.github.com/repos/bitsongofficial/go-bitsong/releases": v0.23.1
-BSC: "https://api.github.com/repos/bnb-chain/bsc/releases": v1.7.0-alpha
+BSC: "https://api.github.com/repos/bnb-chain/bsc/releases": v1.6.7
 Celestia DA (Plume): "https://api.github.com/repos/celestiaorg/nitro-das-celestia/releases": v0.7.0-mocha
 Celo Geth: "https://api.github.com/repos/celo-org/op-geth/releases": celo-v2.1.3
 Celo Opt: "https://api.github.com/repos/celo-org/optimism/releases": celo-v2.1.1
