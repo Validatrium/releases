@@ -36,7 +36,7 @@
   },
   "Filecoin": {
     "url": "https://api.github.com/repos/filecoin-project/lotus/releases",
-    "version": "v1.34.4",
+    "version": "v1.35.0",
     "note": "Docker image: https://hub.docker.com/r/filecoin/lotus/tags"
   },
   "Hedera": {
@@ -111,7 +111,7 @@
   },
   "Uptime Kuma": {
     "url": "https://api.github.com/repos/louislam/uptime-kuma/releases",
-    "version": "2.1.1",
+    "version": "2.1.3",
     "note": ""
   }
 }
