@@ -11,7 +11,7 @@
   },
   "Axelar Ampd": {
     "url": "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases",
-    "version": "solana-handler-v0.1.2",
+    "version": "solana-handler-v0.1.3",
     "note": ""
   },
   "Axelar Tofnd": {
@@ -71,7 +71,7 @@
   },
   "XRPL-EVM": {
     "url": "https://api.github.com/repos/xrplevm/node/releases",
-    "version": "v9.0.3",
+    "version": "v10.0.0",
     "note": ""
   },
   "XRPL": {
