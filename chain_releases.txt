@@ -22,7 +22,7 @@ Espreso: "https://api.github.com/repos/EspressoSystems/espresso-network/releases
 Geth: "https://api.github.com/repos/ethereum/go-ethereum/releases": v1.17.0
 Farcaster: "https://api.github.com/repos/farcasterxyz/protocol/releases": v2023.7.12
 FetchAI: "https://api.github.com/repos/fetchai/fetchd/releases": v0.15.0-rc1
-Filecoin: "https://api.github.com/repos/filecoin-project/lotus/releases": v1.34.4
+Filecoin: "https://api.github.com/repos/filecoin-project/lotus/releases": v1.35.0
 Flow Gateway: "https://api.github.com/repos/onflow/flow-evm-gateway/releases": v1.4.4
 Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.14.2-evm-manipulation-poc.1
 Fraxtal: "https://api.github.com/repos/FraxFinance/fraxtal-node/releases": mainnet-20260113
@@ -33,7 +33,7 @@ Hermes IBC: "https://api.github.com/repos/informalsystems/hermes/releases": v1.1
 Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v44.0.0
 Juno: "https://api.github.com/repos/CosmosContracts/juno/releases": v29.0.0
 Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.2
-Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2509-5
+Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2603-rc1
 Kyve: "https://api.github.com/repos/KYVENetwork/chain/releases": v2.2.0
 Linea: "https://api.github.com/repos/Consensys/linea-besu-package/releases": v0.1.15
 Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": v0.50.2
