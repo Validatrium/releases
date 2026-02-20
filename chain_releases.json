@@ -1,7 +1,7 @@
 {
   "Astar (Shiden)": {
     "url": "https://api.github.com/repos/AstarNetwork/Astar/releases",
-    "version": "runtime-2100",
+    "version": "runtime-2001",
     "note": "Docker image: https://hub.docker.com/r/staketechnologies/astar-collator/tags"
   },
   "Axelar Core": {
@@ -51,7 +51,7 @@
   },
   "Polygon Bor": {
     "url": "https://api.github.com/repos/0xPolygon/bor/releases",
-    "version": "v2.6.0",
+    "version": "v2.6.1-beta",
     "note": ""
   },
   "Polygon Heimdall": {
