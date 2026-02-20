@@ -24,6 +24,11 @@
     "version": "v1.6.7",
     "note": "Docker image: https://github.com/bnb-chain/bsc/pkgs/container/bsc !- Check before update - https://publicnode.com/snapshots#bsc"
   },
+  "Blast": {
+    "url": "https://github.com/blast-io/blast/releases",
+    "version": "v1.8.0",
+    "note": "Check before update - https://publicnode.com/snapshots#blast"
+  },
   "CosmoWasm": {
     "url": "https://api.github.com/repos/CosmWasm/wasmvm/releases",
     "version": "v3.0.3",
