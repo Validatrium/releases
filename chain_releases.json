@@ -1,7 +1,7 @@
 {
   "Astar (Shiden)": {
     "url": "https://api.github.com/repos/AstarNetwork/Astar/releases",
-    "version": "runtime-2001",
+    "version": "runtime-2101",
     "note": "Docker image: https://hub.docker.com/r/staketechnologies/astar-collator/tags"
   },
   "Axelar Core": {
