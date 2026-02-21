@@ -45,7 +45,7 @@
     "note": "Docker image: https://hub.docker.com/r/filecoin/lotus/tags"
   },
   "Flow Access Node": {
-    "url": "https://api.github.com/repos/onflow/flow-go/releases/",
+    "url": "https://api.github.com/repos/onflow/flow-go/releases",
     "version": "v0.46.1-experimental-indexer.9",
     "note": "Flow-Go"
   },
