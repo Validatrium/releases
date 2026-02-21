@@ -13,7 +13,7 @@ Celo Geth: "https://api.github.com/repos/celo-org/op-geth/releases": celo-v2.1.4
 Celo Opt: "https://api.github.com/repos/celo-org/optimism/releases": celo-v2.1.1
 Centrifuge: "https://api.github.com/repos/centrifuge/centrifuge-chain/releases": v0.15.6
 Comebft: "https://api.github.com/repos/cometbft/cometbft/releases": v0.38.21
-CosmosHub: "https://api.github.com/repos/cosmos/gaia/releases": v26.0.0
+CosmosHub: "https://api.github.com/repos/cosmos/gaia/releases": v27.0.0-rc0
 Crossfi: "https://api.github.com/repos/crossfichain/crossfi-node/releases": v0.4.0
 Dymension: "https://api.github.com/repos/dymensionxyz/dymension/releases": v4.0.2
 Elys: "https://api.github.com/repos/elys-network/elys/releases": v6.8.0
@@ -60,7 +60,7 @@ Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.0.7
 Sophon: "https://api.github.com/repos/sophon-org/sophon-light-node/releases": v0.0.104
 SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.55.5
 Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v25.1.1
-Stellar RPC: "https://api.github.com/repos/stellar/stellar-rpc/releases": v25.0.0
+Stellar RPC: "https://api.github.com/repos/stellar/stellar-rpc/releases": v25.0.1
 Swisstronik: "https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases": v1.0.1-mainnet
 Tellor: "https://api.github.com/repos/tellor-io/layer/releases": v6.1.2
 Union: "https://api.github.com/repos/unionlabs/union/releases": uniond/v1.2.3
