@@ -76,7 +76,7 @@
   },
   "Polygon Bor": {
     "url": "https://api.github.com/repos/0xPolygon/bor/releases",
-    "version": "v2.6.1-beta",
+    "version": "v2.6.2-beta",
     "note": ""
   },
   "Polygon Heimdall": {
