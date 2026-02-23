@@ -74,6 +74,11 @@
     "version": "v44.0.0",
     "note": "Docker image: https://hub.docker.com/r/galacticcouncil/hydra-dx/tags"
   },
+  "Immutable": {
+    "url": "https://api.github.com/repos/immutable/geth/releases",
+    "version": "v1.15.11-hardhat-compat",
+    "note": "Docker image: https://github.com/orgs/immutable/packages/container/package/go-ethereum%2Fgo-ethereum"
+  },
   "Polygon Bor": {
     "url": "https://api.github.com/repos/0xPolygon/bor/releases",
     "version": "v2.6.2-beta",
