@@ -79,6 +79,16 @@
     "version": "v1.15.11-hardhat-compat",
     "note": "Docker image: https://github.com/orgs/immutable/packages/container/package/go-ethereum%2Fgo-ethereum"
   },
+  "Linea Besu": {
+    "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
+    "version": "linea-besu-package-beta-v5.0-rc2-20260223172929-70d9fbf",
+    "note": ""
+  },
+  "Linea Maru": {
+    "url": "https://api.github.com/repos/Consensys/maru/releases",
+    "version": "v1.1.0",
+    "note": "Docker image: https://hub.docker.com/r/consensys/maru"
+  },
   "Polygon Bor": {
     "url": "https://api.github.com/repos/0xPolygon/bor/releases",
     "version": "v2.6.2-beta",
