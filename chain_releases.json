@@ -111,12 +111,12 @@
   },
   "XRPL-EVM": {
     "url": "https://api.github.com/repos/xrplevm/node/releases",
-    "version": "v10.0.1",
+    "version": "v10.0.1-fix-check-tx.1",
     "note": ""
   },
   "XRPL": {
     "url": "https://api.github.com/repos/XRPLF/rippled/releases",
-    "version": "3.1.1-rc1",
+    "version": "3.1.1",
     "note": "Docker image: https://hub.docker.com/r/xrpllabsofficial/xrpld/tags"
   },
   "Vara": {
