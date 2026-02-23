@@ -101,7 +101,7 @@
   },
   "XRPL-EVM": {
     "url": "https://api.github.com/repos/xrplevm/node/releases",
-    "version": "v10.0.0",
+    "version": "v10.0.1",
     "note": ""
   },
   "XRPL": {
