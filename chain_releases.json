@@ -76,7 +76,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "linea-besu-package-beta-v5.0-rc2-20260223172929-70d9fbf",
+    "version": "linea-besu-package-beta-v5.0-rc2-20260224171038-63859cb",
     "note": ""
   },
   "Linea Maru": {
@@ -126,7 +126,7 @@
   },
   "Grafana": {
     "url": "https://api.github.com/repos/grafana/grafana/releases",
-    "version": "v12.1.8",
+    "version": "v12.3.4",
     "note": ""
   },
   "Loki and Promtail": {
