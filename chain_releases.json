@@ -19,11 +19,6 @@
     "version": "v1.0.1",
     "note": ""
   },
-  "Binance": {
-    "url": "https://api.github.com/repos/bnb-chain/bsc/releases",
-    "version": "v1.6.7",
-    "note": "Docker image: https://github.com/bnb-chain/bsc/pkgs/container/bsc !- Check before update - https://publicnode.com/snapshots#bsc"
-  },
   "Blast": {
     "url": "https://api.github.com/repos/blast-io/blast/releases",
     "version": "v1.8.0",
