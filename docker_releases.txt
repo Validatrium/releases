@@ -8,7 +8,7 @@ Maru: https://hub.docker.com/v2/repositories/consensys/maru/tags: sha256:77aee32
 Mantle: https://hub.docker.com/v2/repositories/mantlenetworkio/mantle-op-geth/tags: sha256:acb0cfed9dc1c85e5920e0684674bb156989c6228eb8fbae767674384f319fc9
 Moonbeam: https://hub.docker.com/v2/repositories/moonbeamfoundation/moonbeam/tags: sha256:af8a828a28219fb1205d8c25fa0366cc5d5cc34408a20fa50603ef189141995d
 Stellar Core: https://hub.docker.com/v2/repositories/stellar/stellar-core/tags: sha256:f2ef53280922adf62577a4e39aad7fc937aac2c3ce430be6dc8064dbd534f237
-Stellar RPC: https://hub.docker.com/v2/repositories/stellar/stellar-rpc/tags: sha256:e04e2d2be5f86af87f90937b440ad4049736c89d57b48fa7f1fbf9663357c791
+Stellar RPC: https://hub.docker.com/v2/repositories/stellar/stellar-rpc/tags: sha256:c7ea98af567ee9fbbffb7318eb6fc10ec9fb2eeceb1b266f7ea718260367313a
 Polkadot (Kusama): https://hub.docker.com/v2/repositories/parity/polkadot/tags: sha256:07fe3886e1102069cf30aea742f039df4a48bc70085302f30d67f31cdc20420b
 Razor: https://hub.docker.com/v2/repositories/razornetwork/razor-go/tags: sha256:6d1cb40edf04f9171ccb399e7fef8a239d8945de61bb55d87716da83a943b8e3
 Sophon: https://hub.docker.com/v2/repositories/sophonhub/sophon-light-node/tags: sha256:a9273c1a56d8f13a6927149fa8bbae5d756777048051f30418d4062a3ca17128
