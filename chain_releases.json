@@ -136,7 +136,7 @@
   },
   "Postgres Exporter": {
     "url": "https://api.github.com/repos/prometheus-community/postgres_exporter/releases",
-    "version": "v0.19.0",
+    "version": "v0.19.1",
     "note": ""
   },
   "Prometheus": {
