@@ -62,7 +62,7 @@ SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": 
 Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v25.1.1
 Stellar RPC: "https://api.github.com/repos/stellar/stellar-rpc/releases": v25.0.1
 Swisstronik: "https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases": v1.0.1-mainnet
-Tellor: "https://api.github.com/repos/tellor-io/layer/releases": v6.1.2
+Tellor: "https://api.github.com/repos/tellor-io/layer/releases": v6.1.3
 Union: "https://api.github.com/repos/unionlabs/union/releases": uniond/v1.2.3
 Uptick: "https://api.github.com/repos/UptickNetwork/uptick/releases": v0.3.0
 Vara: "https://api.github.com/repos/gear-tech/gear/releases": build
