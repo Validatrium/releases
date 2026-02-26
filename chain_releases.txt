@@ -67,7 +67,7 @@ Union: "https://api.github.com/repos/unionlabs/union/releases": uniond/v1.2.3
 Uptick: "https://api.github.com/repos/UptickNetwork/uptick/releases": v0.3.0
 Vara: "https://api.github.com/repos/gear-tech/gear/releases": build
 Xion: "https://api.github.com/repos/burnt-labs/xion/releases": v28.1.0-rc1
-XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v10.0.2
+XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v10.0.1-fix-check-tx.1
 XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 3.1.1
 Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.31.1
 Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": v0.28.0
