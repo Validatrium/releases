@@ -141,7 +141,7 @@
   },
   "Prometheus": {
     "url": "https://api.github.com/repos/prometheus/prometheus/releases",
-    "version": "v3.10.0-rc.1",
+    "version": "v3.10.0",
     "note": ""
   },
   "Uptime Kuma": {
