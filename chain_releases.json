@@ -76,7 +76,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "linea-besu-package-beta-v5.0-rc3-20260225114147-93d7863",
+    "version": "linea-besu-package-beta-v5.0-rc3-20260226093239-4dc33a1",
     "note": ""
   },
   "Linea Maru": {
@@ -106,7 +106,7 @@
   },
   "XRPL-EVM": {
     "url": "https://api.github.com/repos/xrplevm/node/releases",
-    "version": "v10.0.1-fix-check-tx.1",
+    "version": "v10.0.2",
     "note": ""
   },
   "XRPL": {
