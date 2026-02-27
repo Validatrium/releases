@@ -51,7 +51,7 @@
   },
   "Flow Cli": {
     "url": "https://api.github.com/repos/onflow/flow-cli/releases",
-    "version": "v2.14.2-evm-manipulation-poc.1",
+    "version": "v2.14.3",
     "note": ""
   },
   "Fraxtal": {
