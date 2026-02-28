@@ -1,13 +1,13 @@
 Analog: https://hub.docker.com/v2/repositories/analoglabs/timenode-prod/tags: sha256:7b97d2d138bbd7feeddcad923dda249f5f1a8af4630e753bb909059073e263f1
 Astar (Shiden): https://hub.docker.com/v2/repositories/staketechnologies/astar-collator/tags: sha256:5d3426fa33b4656be02fa50250e666d18d42e868dcc430be984897fb429f5599
-Avalanche: https://hub.docker.com/v2/repositories/avaplatform/avalanchego/tags: sha256:2b878b33eb30ff8e439509bd71b7ea69e7315f5db32e2ef3d3ac411e4a182d69
+Avalanche: https://hub.docker.com/v2/repositories/avaplatform/avalanchego/tags: sha256:838ac16beeb2590a0f8fc09c243073e93505095fbdab42a6e98cbd0f32eababc
 Blast: https://hub.docker.com/v2/repositories/blastio/blast-geth/tags: sha256:207a4175ab2b5023a3b2d8a5e54633b296007cd81fb76b576759d0d56ef37719
 Centrifuge: https://hub.docker.com/v2/repositories/centrifugeio/centrifuge-chain/tags: sha256:deb4f698b07929a24fcd24221777b8c1dd8735a6fff22ae12a17b35d90f2cdbe
 Linea: https://hub.docker.com/v2/repositories/consensys/linea-besu-package/tags: sha256:6b72f36f9db5f647037d305e2ceeb1fb7898c2a3b679f045886ccd6724a59296
 Maru: https://hub.docker.com/v2/repositories/consensys/maru/tags: sha256:77aee328cdad2cda2443efc768b14034f90cff3cbb35605b9efb792a7fe52d4e
 Mantle: https://hub.docker.com/v2/repositories/mantlenetworkio/mantle-op-geth/tags: sha256:acb0cfed9dc1c85e5920e0684674bb156989c6228eb8fbae767674384f319fc9
 Moonbeam: https://hub.docker.com/v2/repositories/moonbeamfoundation/moonbeam/tags: sha256:6709a7bf865ceb1af484a742b231900a20e651d7fa834568d1b0c8c1254d7b44
-Stellar Core: https://hub.docker.com/v2/repositories/stellar/stellar-core/tags: sha256:f2ef53280922adf62577a4e39aad7fc937aac2c3ce430be6dc8064dbd534f237
+Stellar Core: https://hub.docker.com/v2/repositories/stellar/stellar-core/tags: sha256:e60940f5397090cf74b17c26eb19b098af68a1cd47ba1a612cca3f40b3de8159
 Stellar RPC: https://hub.docker.com/v2/repositories/stellar/stellar-rpc/tags: sha256:c7ea98af567ee9fbbffb7318eb6fc10ec9fb2eeceb1b266f7ea718260367313a
 Polkadot (Kusama): https://hub.docker.com/v2/repositories/parity/polkadot/tags: sha256:07fe3886e1102069cf30aea742f039df4a48bc70085302f30d67f31cdc20420b
 Razor: https://hub.docker.com/v2/repositories/razornetwork/razor-go/tags: sha256:6d1cb40edf04f9171ccb399e7fef8a239d8945de61bb55d87716da83a943b8e3
