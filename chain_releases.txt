@@ -36,7 +36,7 @@ Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.2
 Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2512-2
 Kyve: "https://api.github.com/repos/KYVENetwork/chain/releases": v2.2.0
 Linea: "https://api.github.com/repos/Consensys/linea-besu-package/releases": v0.1.15
-Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": v0.50.3
+Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": runtime-4202
 Namada: "https://api.github.com/repos/namada-net/namada/releases": v101.1.4
 Namada Indexer: "https://api.github.com/repos/namada-net/namada-interface/releases": extension@v0.10.0
 Nym: "https://api.github.com/repos/nymtech/nym/releases": nym-binaries-v2026.4-quark
@@ -51,7 +51,7 @@ Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases
 Optimum: "https://api.github.com/repos/getoptimum/mump2p-cli/releases": v0.0.1-rc8
 Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.1
 Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.6.0
-Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.6.2-beta2
+Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.8.0-test2
 Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": v3.9.2-rc.1
 Prysm: "https://api.github.com/repos/OffchainLabs/prysm/releases": v7.1.2
 Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
