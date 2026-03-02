@@ -76,7 +76,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "linea-besu-package-beta-v5.0-rc3-20260302115749-8399a95",
+    "version": "linea-besu-package-beta-v5.0-rc3-20260302132737-9d03d94",
     "note": ""
   },
   "Linea Maru": {
@@ -86,7 +86,7 @@
   },
   "Polygon Bor": {
     "url": "https://api.github.com/repos/0xPolygon/bor/releases",
-    "version": "v2.6.2-beta2",
+    "version": "v2.8.0-test2",
     "note": ""
   },
   "Polygon Heimdall": {
