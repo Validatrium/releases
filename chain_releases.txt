@@ -30,7 +30,7 @@ Graph Node: "https://api.github.com/repos/graphprotocol/graph-node/releases": v0
 Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.25.5
 Hedera: "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases": v0.75.0-rc2
 Hermes IBC: "https://api.github.com/repos/informalsystems/hermes/releases": v1.13.3
-Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v44.0.0
+Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v45.0.0
 Juno: "https://api.github.com/repos/CosmosContracts/juno/releases": v29.0.0
 Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.2
 Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2512-2
@@ -67,7 +67,7 @@ Union: "https://api.github.com/repos/unionlabs/union/releases": uniond/v1.2.3
 Uptick: "https://api.github.com/repos/UptickNetwork/uptick/releases": v0.3.0
 Vara: "https://api.github.com/repos/gear-tech/gear/releases": build
 Xion: "https://api.github.com/repos/burnt-labs/xion/releases": v28.1.0-rc1
-XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v10.0.2
+XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v10.0.3-rc.1
 XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 3.1.1
 Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.31.1
 Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": v0.28.0
