@@ -76,7 +76,7 @@
   },
   "Hydration": {
     "url": "https://api.github.com/repos/galacticcouncil/hydration-node/releases",
-    "version": "v44.0.0",
+    "version": "v45.0.0",
     "note": "Docker image: https://hub.docker.com/r/galacticcouncil/hydra-dx/tags"
   },
   "Immutable": {
@@ -86,7 +86,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "linea-besu-package-beta-v5.0-rc4-20260305094511-38878c0",
+    "version": "linea-besu-package-beta-v5.0-rc4-20260305134513-dff7fae",
     "note": ""
   },
   "Linea Maru": {
