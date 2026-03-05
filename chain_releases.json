@@ -111,7 +111,7 @@
   },
   "Plume": {
     "url": "https://api.github.com/repos/OffchainLabs/nitro/releases",
-    "version": "v3.9.7-rc.2",
+    "version": "v3.9.7",
     "note": "Docker image: https://hub.docker.com/r/offchainlabs/nitro-node/tags"
   },
   "Prysm": {
@@ -121,7 +121,7 @@
   },
   "SpaceAndTime": {
     "url": "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases",
-    "version": "v1.55.8",
+    "version": "v1.56.0",
     "note": "Docker image: https://github.com/orgs/spaceandtimefdn/packages/container/package/sxt-node"
   },
   "XRPL-EVM": {
