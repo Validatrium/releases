@@ -41,7 +41,7 @@
   },
   "Espresso": {
     "url": "https://api.github.com/repos/EspressoSystems/espresso-network/releases",
-    "version": "20260302",
+    "version": "20260203-staking-cli-mainnet",
     "note": "Docker image: https://github.com/espressosystems/espresso-network/pkgs/container/espresso-sequencer%2Fsequencer"
   },
   "Filecoin": {
@@ -86,7 +86,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "linea-besu-package-beta-v5.0-rc4-20260304204639-2901a1d",
+    "version": "linea-besu-package-beta-v5.0-rc4-20260305094511-38878c0",
     "note": ""
   },
   "Linea Maru": {
