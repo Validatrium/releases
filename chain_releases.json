@@ -27,12 +27,22 @@
   "CosmoWasm": {
     "url": "https://api.github.com/repos/CosmWasm/wasmvm/releases",
     "version": "v3.0.3",
-    "note": "Axelar Library. Update only after official announcement "
+    "note": "Axelar Library. Update only after official announcement"
+  },
+  "Dymension": {
+    "url": "https://api.github.com/repos/dymensionxyz/dymension/releases",
+    "version": "v4.0.2",
+    "note": ""
   },
   "Erigon": {
     "url": "https://api.github.com/repos/erigontech/erigon/releases",
     "version": "v3.3.8",
     "note": ""
+  },
+  "Espresso": {
+    "url": "https://api.github.com/repos/EspressoSystems/espresso-network/releases",
+    "version": "20260302",
+    "note": "Docker image: https://github.com/espressosystems/espresso-network/pkgs/container/espresso-sequencer%2Fsequencer"
   },
   "Filecoin": {
     "url": "https://api.github.com/repos/filecoin-project/lotus/releases",
@@ -84,6 +94,11 @@
     "version": "v1.1.0",
     "note": "Docker image: https://hub.docker.com/r/consensys/maru"
   },
+  "Nym": {
+    "url": "https://api.github.com/repos/nymtech/nym/releases",
+    "version": "nym-binaries-v2026.4-quark",
+    "note": ""
+  },
   "Polygon Bor": {
     "url": "https://api.github.com/repos/0xPolygon/bor/releases",
     "version": "v2.6.2",
@@ -104,6 +119,11 @@
     "version": "v7.1.2",
     "note": ""
   },
+  "SpaceAndTime": {
+    "url": "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases",
+    "version": "v1.55.8",
+    "note": "Docker image: https://github.com/orgs/spaceandtimefdn/packages/container/package/sxt-node"
+  },
   "XRPL-EVM": {
     "url": "https://api.github.com/repos/xrplevm/node/releases",
     "version": "v10.0.2",
@@ -118,6 +138,16 @@
     "url": "https://api.github.com/repos/gear-tech/gear/releases",
     "version": "build",
     "note": "Docker image: https://github.com/gear-tech/gear/pkgs/container/node"
+  },
+  "Uptick": {
+    "url": "https://api.github.com/repos/UptickNetwork/uptick/releases",
+    "version": "v0.3.0",
+    "note": ""
+  },
+  "Xion": {
+    "url": "https://api.github.com/repos/burnt-labs/xion/releases",
+    "version": "v28.1.0-rc1",
+    "note": ""
   },
   "Alertmanager": {
     "url": "https://api.github.com/repos/prometheus/alertmanager/releases",
