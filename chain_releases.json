@@ -121,7 +121,7 @@
   },
   "SpaceAndTime": {
     "url": "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases",
-    "version": "v1.57.0",
+    "version": "v1.58.1",
     "note": "Docker image: https://github.com/orgs/spaceandtimefdn/packages/container/package/sxt-node"
   },
   "XRPL-EVM": {
@@ -156,7 +156,7 @@
   },
   "Grafana": {
     "url": "https://api.github.com/repos/grafana/grafana/releases",
-    "version": "v12.4.0",
+    "version": "v12.4.1",
     "note": ""
   },
   "Loki and Promtail": {
