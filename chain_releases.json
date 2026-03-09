@@ -101,7 +101,7 @@
   },
   "Polygon Bor": {
     "url": "https://api.github.com/repos/0xPolygon/bor/releases",
-    "version": "v2.6.3-beta",
+    "version": "v2.6.3-beta2",
     "note": ""
   },
   "Polygon Heimdall": {
@@ -121,7 +121,7 @@
   },
   "SpaceAndTime": {
     "url": "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases",
-    "version": "v1.56.0",
+    "version": "v1.57.0",
     "note": "Docker image: https://github.com/orgs/spaceandtimefdn/packages/container/package/sxt-node"
   },
   "XRPL-EVM": {
