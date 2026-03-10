@@ -86,7 +86,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "linea-besu-package-beta-v5.0-rc5-20260310071509-4d1eea0",
+    "version": "linea-besu-package-beta-v5.0-rc5-20260310102956-7247ad0",
     "note": ""
   },
   "Linea Maru": {
@@ -96,7 +96,7 @@
   },
   "Nym": {
     "url": "https://api.github.com/repos/nymtech/nym/releases",
-    "version": "nym-binaries-v2026.4-quark",
+    "version": "nym-binaries-v2026.5-raclette",
     "note": ""
   },
   "Polygon Bor": {
