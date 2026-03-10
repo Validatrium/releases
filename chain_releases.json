@@ -121,7 +121,7 @@
   },
   "SpaceAndTime": {
     "url": "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases",
-    "version": "v1.58.1",
+    "version": "v1.59.0",
     "note": "Docker image: https://github.com/orgs/spaceandtimefdn/packages/container/package/sxt-node"
   },
   "XRPL-EVM": {
