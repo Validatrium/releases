@@ -27,7 +27,7 @@ Flow Gateway: "https://api.github.com/repos/onflow/flow-evm-gateway/releases": v
 Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.14.3
 Fraxtal: "https://api.github.com/repos/FraxFinance/fraxtal-node/releases": mainnet-20260219
 Graph Node: "https://api.github.com/repos/graphprotocol/graph-node/releases": v0.41.2
-Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.25.6-rc.1
+Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.25.6
 Hedera: "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases": v0.75.0
 Hermes IBC: "https://api.github.com/repos/informalsystems/hermes/releases": v1.13.3
 Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v45.0.0
@@ -51,7 +51,7 @@ Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases
 Optimum: "https://api.github.com/repos/getoptimum/mump2p-cli/releases": v0.0.1-rc8
 Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.1
 Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.6.0
-Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.6.3-beta2
+Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.6.3-beta3
 Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": v3.9.2-rc.1
 Prysm: "https://api.github.com/repos/OffchainLabs/prysm/releases": v7.1.2
 Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
