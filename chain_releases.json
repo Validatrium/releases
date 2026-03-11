@@ -1,4 +1,9 @@
 {
+  "Archway": {
+    "url": "https://api.github.com/repos/archway-network/archway/releases",
+    "version": "v10.1.1-tachyon-security-patch",
+    "note": ""
+  },
   "Astar (Shiden)": {
     "url": "https://api.github.com/repos/AstarNetwork/Astar/releases",
     "version": "runtime-2101",
@@ -17,6 +22,11 @@
   "Axelar Tofnd": {
     "url": "https://api.github.com/repos/axelarnetwork/tofnd/releases",
     "version": "v1.0.1",
+    "note": ""
+  },
+  "Bitsong": {
+    "url": "https://api.github.com/repos/bitsongofficial/go-bitsong/releases",
+    "version": "v0.23.1",
     "note": ""
   },
   "Blast": {
@@ -68,6 +78,26 @@
     "url": "https://api.github.com/repos/FraxFinance/fraxtal-node/releases",
     "version": "mainnet-20260219",
     "note": "Docker image: https://hub.docker.com/r/filecoin/lotus/tags"
+  },
+  "Graph Node": {
+    "url": "https://api.github.com/repos/graphprotocol/graph-node/releases",
+    "version": "v0.41.2",
+    "note": "Docker image: https://hub.docker.com/r/graphprotocol/graph-node/tags"
+  },
+  "Graph Indexer": {
+    "url": "https://api.github.com/repos/graphprotocol/indexer/releases",
+    "version": "v0.25.6",
+    "note": "Docker image: https://github.com/graphprotocol/indexer/pkgs/container/indexer-agent"
+  },
+  "Graph Service & TAP": {
+    "url": "https://api.github.com/repos/graphprotocol/indexer-rs/releases",
+    "version": "indexer-tap-agent-v2.0.0",
+    "note": "Docker image: https://github.com/graphprotocol/indexer-rs/pkgs/container/indexer-service-rs"
+  },
+  "Graph Subgraph-Radio": {
+    "url": "https://api.github.com/repos/graphops/subgraph-radio/releases",
+    "version": "1.0.7",
+    "note": "Docker image: https://github.com/graphops/subgraph-radio/pkgs/container/subgraph-radio"
   },
   "Hedera": {
     "url": "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases",
