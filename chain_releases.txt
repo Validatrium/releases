@@ -33,7 +33,7 @@ Hermes IBC: "https://api.github.com/repos/informalsystems/hermes/releases": v1.1
 Hydra: "https://api.github.com/repos/galacticcouncil/hydration-node/releases": v45.0.0
 Juno: "https://api.github.com/repos/CosmosContracts/juno/releases": v29.0.0
 Kava: "https://api.github.com/repos/Kava-Labs/kava/releases": v0.28.2
-Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2506-9
+Polkadot (Kusama): "https://api.github.com/repos/paritytech/polkadot-sdk/releases": polkadot-stable2509-6
 Kyve: "https://api.github.com/repos/KYVENetwork/chain/releases": v2.2.0
 Linea: "https://api.github.com/repos/Consensys/linea-besu-package/releases": v0.1.15
 Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": v0.50.4
@@ -58,7 +58,7 @@ Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
 Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.10.2
 Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.0.8-rc.1
 Sophon: "https://api.github.com/repos/sophon-org/sophon-light-node/releases": v0.0.106
-SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.61.0
+SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.62.0
 Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v25.1.1
 Stellar RPC: "https://api.github.com/repos/stellar/stellar-rpc/releases": v25.0.1
 Swisstronik: "https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases": v1.0.1-mainnet
