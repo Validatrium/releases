@@ -56,7 +56,7 @@ Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": v3.9.2-rc.1
 Prysm: "https://api.github.com/repos/OffchainLabs/prysm/releases": v7.1.2
 Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
 Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.10.2
-Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.0.7
+Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.0.8-rc.1
 Sophon: "https://api.github.com/repos/sophon-org/sophon-light-node/releases": v0.0.106
 SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.61.0
 Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v25.1.1
