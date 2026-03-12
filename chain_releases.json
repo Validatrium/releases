@@ -116,7 +116,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "linea-besu-package-beta-v5.0-rc5-20260310102956-7247ad0",
+    "version": "linea-tracer-beta-v6.0-rc2",
     "note": ""
   },
   "Linea Maru": {
