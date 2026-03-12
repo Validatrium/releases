@@ -71,7 +71,7 @@
   },
   "Flow Cli": {
     "url": "https://api.github.com/repos/onflow/flow-cli/releases",
-    "version": "v2.14.3",
+    "version": "v2.15.0",
     "note": ""
   },
   "Fraxtal": {
@@ -151,7 +151,7 @@
   },
   "SpaceAndTime": {
     "url": "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases",
-    "version": "v1.60.0",
+    "version": "v1.61.0",
     "note": "Docker image: https://github.com/orgs/spaceandtimefdn/packages/container/package/sxt-node"
   },
   "XRPL-EVM": {
