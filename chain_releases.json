@@ -109,6 +109,11 @@
     "version": "v0.75.0",
     "note": "Docker image: https://github.com/hiero-ledger/hiero-json-rpc-relay/pkgs/container/hiero-json-rpc-relay"
   },
+  "Hermes IBC (Relayers)": {
+    "url": "https://api.github.com/repos/informalsystems/hermes/releases",
+    "version": "v1.13.3",
+    "note": "Docker image: https://hub.docker.com/r/informalsystems/hermes/tags"
+  },
   "Hydration": {
     "url": "https://api.github.com/repos/galacticcouncil/hydration-node/releases",
     "version": "v45.0.0",
