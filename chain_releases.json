@@ -39,6 +39,11 @@
     "version": "v3.0.3",
     "note": "Axelar Library. Update only after official announcement"
   },
+  "Cosmoshub": {
+    "url": "https://api.github.com/repos/cosmos/gaia/releases",
+    "version": "v27.0.0",
+    "note": ""
+  },
   "Dymension": {
     "url": "https://api.github.com/repos/dymensionxyz/dymension/releases",
     "version": "v4.0.2",
@@ -114,6 +119,11 @@
     "version": "v1.15.11-hardhat-compat",
     "note": "Docker image: https://github.com/orgs/immutable/packages/container/package/go-ethereum%2Fgo-ethereum"
   },
+  "Juno": {
+    "url": "https://api.github.com/repos/CosmosContracts/juno/releases",
+    "version": "v29.0.0",
+    "note": ""
+  },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
     "version": "linea-tracer-beta-v6.0-rc2",
@@ -127,6 +137,11 @@
   "Nym": {
     "url": "https://api.github.com/repos/nymtech/nym/releases",
     "version": "nym-binaries-v2026.5-raclette",
+    "note": ""
+  },
+  "Osmosis": {
+    "url": "https://api.github.com/repos/osmosis-labs/osmosis/releases",
+    "version": "v31.0.1",
     "note": ""
   },
   "Polygon Bor": {
