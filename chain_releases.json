@@ -151,7 +151,7 @@
   },
   "Polygon Bor": {
     "url": "https://api.github.com/repos/0xPolygon/bor/releases",
-    "version": "v2.6.3",
+    "version": "v2.7.0-beta",
     "note": ""
   },
   "Polygon Heimdall": {
@@ -191,7 +191,7 @@
   },
   "Uptick": {
     "url": "https://api.github.com/repos/UptickNetwork/uptick/releases",
-    "version": "v0.3.0",
+    "version": "v0.3.1",
     "note": ""
   },
   "Xion": {
