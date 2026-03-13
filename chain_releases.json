@@ -96,7 +96,7 @@
   },
   "Graph Service & TAP": {
     "url": "https://api.github.com/repos/graphprotocol/indexer-rs/releases",
-    "version": "indexer-tap-agent-v2.0.0",
+    "version": "indexer-tap-agent-v2.0.1",
     "note": "Docker image: https://github.com/graphprotocol/indexer-rs/pkgs/container/indexer-service-rs"
   },
   "Graph Subgraph-Radio": {
@@ -171,7 +171,7 @@
   },
   "SpaceAndTime": {
     "url": "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases",
-    "version": "v1.64.0",
+    "version": "v1.64.1",
     "note": "Docker image: https://github.com/orgs/spaceandtimefdn/packages/container/package/sxt-node"
   },
   "XRPL-EVM": {
