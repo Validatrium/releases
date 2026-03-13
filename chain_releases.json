@@ -41,7 +41,7 @@
   },
   "Cosmoshub": {
     "url": "https://api.github.com/repos/cosmos/gaia/releases",
-    "version": "v27.0.0",
+    "version": "v27.1.0-rc0",
     "note": ""
   },
   "Dymension": {
@@ -171,7 +171,7 @@
   },
   "SpaceAndTime": {
     "url": "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases",
-    "version": "v1.64.1",
+    "version": "v1.64.2",
     "note": "Docker image: https://github.com/orgs/spaceandtimefdn/packages/container/package/sxt-node"
   },
   "XRPL-EVM": {
