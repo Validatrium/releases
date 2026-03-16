@@ -10,7 +10,7 @@ Bitsong: "https://api.github.com/repos/bitsongofficial/go-bitsong/releases": v0.
 BSC: "https://api.github.com/repos/bnb-chain/bsc/releases": v1.7.1
 Celestia DA (Plume): "https://api.github.com/repos/celestiaorg/nitro-das-celestia/releases": v0.7.0-mocha
 Celo Geth: "https://api.github.com/repos/celo-org/op-geth/releases": celo-v2.2.1
-Celo Opt: "https://api.github.com/repos/celo-org/optimism/releases": celo-v2.2.0
+Celo Opt: "https://api.github.com/repos/celo-org/optimism/releases": celo-v2.2.1
 Centrifuge: "https://api.github.com/repos/centrifuge/centrifuge-chain/releases": v0.15.6
 Comebft: "https://api.github.com/repos/cometbft/cometbft/releases": v0.38.21
 CosmosHub: "https://api.github.com/repos/cosmos/gaia/releases": v27.1.0-rc0
