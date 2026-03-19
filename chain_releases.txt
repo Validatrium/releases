@@ -26,7 +26,7 @@ Filecoin: "https://api.github.com/repos/filecoin-project/lotus/releases": v1.35.
 Flow Gateway: "https://api.github.com/repos/onflow/flow-evm-gateway/releases": v1.4.4
 Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.15.1
 Fraxtal: "https://api.github.com/repos/FraxFinance/fraxtal-node/releases": mainnet-20260219
-Graph Node: "https://api.github.com/repos/graphprotocol/graph-node/releases": v0.42.0-rc.0
+Graph Node: "https://api.github.com/repos/graphprotocol/graph-node/releases": v0.42.0
 Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.25.6
 Hedera: "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases": v0.75.0
 Hermes IBC: "https://api.github.com/repos/informalsystems/hermes/releases": v1.13.3
@@ -58,11 +58,11 @@ Razor: "https://api.github.com/repos/razor-network/oracle-node/releases": v2.1.1
 Scroll: "https://api.github.com/repos/scroll-tech/go-ethereum/releases": scroll-v5.10.2
 Seda: "https://api.github.com/repos/sedaprotocol/seda-chain/releases": v1.0.8-rc.1
 Sophon: "https://api.github.com/repos/sophon-org/sophon-light-node/releases": v0.0.106
-SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.64.3
+SpaceAndTime: "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases": v1.65.0
 Stellar Core: "https://api.github.com/repos/stellar/stellar-core/releases": v25.2.0
 Stellar RPC: "https://api.github.com/repos/stellar/stellar-rpc/releases": v25.1.0
 Swisstronik: "https://api.github.com/repos/SigmaGmbH/swisstronik-chain/releases": v1.0.1-mainnet
-Tellor: "https://api.github.com/repos/tellor-io/layer/releases": v6.1.3
+Tellor: "https://api.github.com/repos/tellor-io/layer/releases": v6.1.4
 Union: "https://api.github.com/repos/unionlabs/union/releases": uniond/v1.2.3
 Uptick: "https://api.github.com/repos/UptickNetwork/uptick/releases": v0.3.1
 Vara: "https://api.github.com/repos/gear-tech/gear/releases": build
