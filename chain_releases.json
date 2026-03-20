@@ -81,7 +81,7 @@
   },
   "Fraxtal": {
     "url": "https://api.github.com/repos/FraxFinance/fraxtal-node/releases",
-    "version": "mainnet-20260219",
+    "version": "testnet-20260320",
     "note": "Docker image: https://hub.docker.com/r/filecoin/lotus/tags"
   },
   "Graph Node": {
@@ -91,7 +91,7 @@
   },
   "Graph Indexer": {
     "url": "https://api.github.com/repos/graphprotocol/indexer/releases",
-    "version": "v0.25.6",
+    "version": "v0.25.7",
     "note": "Docker image: https://github.com/graphprotocol/indexer/pkgs/container/indexer-agent"
   },
   "Graph Service & TAP": {
@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "linea-besu-package-beta-v5-20260320114134-1e67e35",
+    "version": "linea-besu-package-beta-v5.1-20260320150354-f908e7d",
     "note": ""
   },
   "Linea Maru": {
