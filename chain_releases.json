@@ -199,6 +199,11 @@
     "version": "build",
     "note": "Docker image: https://github.com/gear-tech/gear/pkgs/container/node"
   },
+  "Union": {
+    "url": "https://api.github.com/repos/unionlabs/union/releases",
+    "version": "uniond/v1.2.3",
+    "note": ""
+  },
   "Uptick": {
     "url": "https://api.github.com/repos/UptickNetwork/uptick/releases",
     "version": "v0.3.1",
