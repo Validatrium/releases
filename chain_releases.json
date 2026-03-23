@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "linea-besu-package-beta-v5.1-20260320150354-f908e7d",
+    "version": "linea-besu-package-beta-v5.2-20260323165125-797dad0",
     "note": ""
   },
   "Linea Maru": {
@@ -176,7 +176,7 @@
   },
   "SpaceAndTime": {
     "url": "https://api.github.com/repos/spaceandtimefdn/sxt-node/releases",
-    "version": "v1.65.0",
+    "version": "v1.66.0",
     "note": "Docker image: https://github.com/orgs/spaceandtimefdn/packages/container/package/sxt-node"
   },
   "Sophon": {
