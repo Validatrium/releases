@@ -16,7 +16,7 @@
   },
   "Axelar Ampd": {
     "url": "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases",
-    "version": "solana-handler-v0.1.5",
+    "version": "solana-handler-v0.1.6",
     "note": ""
   },
   "Axelar Tofnd": {
