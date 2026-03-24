@@ -1,6 +1,6 @@
 Analog: https://hub.docker.com/v2/repositories/analoglabs/timenode-prod/tags: sha256:7b97d2d138bbd7feeddcad923dda249f5f1a8af4630e753bb909059073e263f1
 Astar (Shiden): https://hub.docker.com/v2/repositories/staketechnologies/astar-collator/tags: sha256:5d3426fa33b4656be02fa50250e666d18d42e868dcc430be984897fb429f5599
-Avalanche: https://hub.docker.com/v2/repositories/avaplatform/avalanchego/tags: sha256:da68b0570a9f3e7cf74a4e33d75ece608ce10d95d1ad343fca7e9631562add69
+Avalanche: https://hub.docker.com/v2/repositories/avaplatform/avalanchego/tags: sha256:946ed1dab4f5dbd23ca8de59da31939b863949015627f2fb5f40771912cb361f
 Blast: https://hub.docker.com/v2/repositories/blastio/blast-geth/tags: sha256:207a4175ab2b5023a3b2d8a5e54633b296007cd81fb76b576759d0d56ef37719
 Centrifuge: https://hub.docker.com/v2/repositories/centrifugeio/centrifuge-chain/tags: sha256:deb4f698b07929a24fcd24221777b8c1dd8735a6fff22ae12a17b35d90f2cdbe
 Linea: https://hub.docker.com/v2/repositories/consensys/linea-besu-package/tags: sha256:88799ea8019c65c06c5d6d1ef5c31765beff99ccde9d71732f9ecdf8076c2f0a
@@ -8,7 +8,7 @@ Maru: https://hub.docker.com/v2/repositories/consensys/maru/tags: sha256:34491e6
 Mantle: https://hub.docker.com/v2/repositories/mantlenetworkio/mantle-op-geth/tags: sha256:5ae739eb38f27b19406220ffb0c3285c3c5c048002bd8ad2d5162951afa860ed
 Moonbeam: https://hub.docker.com/v2/repositories/moonbeamfoundation/moonbeam/tags: sha256:78b7ae0a51cec90304001b7da83d7f3e6c0d4189e074172f1fddf003ac2930f5
 Stellar Core: https://hub.docker.com/v2/repositories/stellar/stellar-core/tags: sha256:8b0166b7d8c0368bfd5730fe2d5c92653d76f403cfbb77d123e72882340c34a6
-Stellar RPC: https://hub.docker.com/v2/repositories/stellar/stellar-rpc/tags: sha256:cc8c4e6863d26249700e821fe5b4c37c2a9170bfe6b56976d908174c72fd1ede
+Stellar RPC: https://hub.docker.com/v2/repositories/stellar/stellar-rpc/tags: sha256:45d661947827e0a825facc52163241c59febbd201653fb62024f8f56cb497dcd
 Polkadot (Kusama): https://hub.docker.com/v2/repositories/parity/polkadot/tags: sha256:7f13bf0551722f3731eac25c464419a6675d4bf53a238d313de42d68ecf751f2
 Razor: https://hub.docker.com/v2/repositories/razornetwork/razor-go/tags: sha256:6d1cb40edf04f9171ccb399e7fef8a239d8945de61bb55d87716da83a943b8e3
 Sophon: https://hub.docker.com/v2/repositories/sophonhub/sophon-light-node/tags: sha256:2f48445b7dacd0c48fb64c6fcfd89682ff3ddd09e0adfdb1115f00973552dab8
