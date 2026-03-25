@@ -141,7 +141,7 @@
   },
   "Nym": {
     "url": "https://api.github.com/repos/nymtech/nym/releases",
-    "version": "nym-binaries-v2026.5-raclette",
+    "version": "nym-binaries-v2026.6-stilton",
     "note": ""
   },
   "Osmosis": {
