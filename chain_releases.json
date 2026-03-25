@@ -226,7 +226,7 @@
   },
   "Loki and Promtail": {
     "url": "https://api.github.com/repos/grafana/loki/releases",
-    "version": "operator/v0.10.0",
+    "version": "v3.6.8",
     "note": ""
   },
   "Postgres Exporter": {
