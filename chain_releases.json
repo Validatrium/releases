@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "linea-besu-package-beta-v5.2-20260323165125-797dad0",
+    "version": "blob-libs-v4.0.0",
     "note": ""
   },
   "Linea Maru": {
@@ -151,7 +151,7 @@
   },
   "Polygon Bor": {
     "url": "https://api.github.com/repos/0xPolygon/bor/releases",
-    "version": "v2.7.0-beta5",
+    "version": "v2.7.0",
     "note": ""
   },
   "Polygon Heimdall": {
@@ -226,7 +226,7 @@
   },
   "Loki and Promtail": {
     "url": "https://api.github.com/repos/grafana/loki/releases",
-    "version": "v3.6.8",
+    "version": "v3.7.0",
     "note": ""
   },
   "Postgres Exporter": {
