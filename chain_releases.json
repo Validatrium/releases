@@ -61,7 +61,7 @@
   },
   "Filecoin": {
     "url": "https://api.github.com/repos/filecoin-project/lotus/releases",
-    "version": "v1.35.0",
+    "version": "v1.35.1-rc1",
     "note": "Docker image: https://hub.docker.com/r/filecoin/lotus/tags"
   },
   "Flow Access Node": {
