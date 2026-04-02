@@ -91,7 +91,7 @@
   },
   "Graph Indexer": {
     "url": "https://api.github.com/repos/graphprotocol/indexer/releases",
-    "version": "v0.25.7",
+    "version": "v0.25.8",
     "note": "Docker image: https://github.com/graphprotocol/indexer/pkgs/container/indexer-agent"
   },
   "Graph Service & TAP": {
