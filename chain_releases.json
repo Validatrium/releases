@@ -211,7 +211,7 @@
   },
   "Xion": {
     "url": "https://api.github.com/repos/burnt-labs/xion/releases",
-    "version": "v28.1.0-rc1",
+    "version": "v29.0.0-rc1",
     "note": ""
   },
   "Alertmanager": {
