@@ -106,7 +106,7 @@
   },
   "Hedera": {
     "url": "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases",
-    "version": "v0.75.0",
+    "version": "v0.76.0",
     "note": "Docker image: https://github.com/hiero-ledger/hiero-json-rpc-relay/pkgs/container/hiero-json-rpc-relay"
   },
   "Hermes IBC (Relayers)": {
@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "blob-libs-v4.0.0",
+    "version": "linea-besu-package-dev-20260402135417-936a6a4",
     "note": ""
   },
   "Linea Maru": {
