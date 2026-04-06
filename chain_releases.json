@@ -136,7 +136,7 @@
   },
   "Linea Maru": {
     "url": "https://api.github.com/repos/Consensys/maru/releases",
-    "version": "v1.1.0",
+    "version": "v1.2.0",
     "note": "Docker image: https://hub.docker.com/r/consensys/maru"
   },
   "Nym": {
