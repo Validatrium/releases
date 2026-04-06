@@ -41,7 +41,7 @@
   },
   "Cosmoshub": {
     "url": "https://api.github.com/repos/cosmos/gaia/releases",
-    "version": "v27.1.0",
+    "version": "v27.2.0-rc0",
     "note": ""
   },
   "Dymension": {
@@ -106,7 +106,7 @@
   },
   "Hedera": {
     "url": "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases",
-    "version": "v0.76.0",
+    "version": "v0.76.1",
     "note": "Docker image: https://github.com/hiero-ledger/hiero-json-rpc-relay/pkgs/container/hiero-json-rpc-relay"
   },
   "Hermes IBC (Relayers)": {
