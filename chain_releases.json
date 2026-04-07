@@ -41,7 +41,7 @@
   },
   "Cosmoshub": {
     "url": "https://api.github.com/repos/cosmos/gaia/releases",
-    "version": "v27.2.0-rc0",
+    "version": "v27.2.0",
     "note": ""
   },
   "Dymension": {
