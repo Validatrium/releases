@@ -16,7 +16,7 @@
   },
   "Axelar Ampd": {
     "url": "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases",
-    "version": "solana-handler-v0.1.6",
+    "version": "sui-handler-v0.1.6",
     "note": ""
   },
   "Axelar Tofnd": {
@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "linea-besu-package-beta-v6-20260407111827-7d56432",
+    "version": "linea-besu-package-dev-20260408141508-342c981",
     "note": ""
   },
   "Linea Maru": {
