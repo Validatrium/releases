@@ -216,7 +216,7 @@
   },
   "Alertmanager": {
     "url": "https://api.github.com/repos/prometheus/alertmanager/releases",
-    "version": "v0.31.1",
+    "version": "v0.32.0",
     "note": ""
   },
   "Grafana": {
