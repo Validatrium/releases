@@ -16,7 +16,7 @@
   },
   "Axelar Ampd": {
     "url": "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases",
-    "version": "sui-handler-v0.1.6",
+    "version": "xrpl-handler-v0.1.6",
     "note": ""
   },
   "Axelar Tofnd": {
