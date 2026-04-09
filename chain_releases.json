@@ -66,7 +66,7 @@
   },
   "Flow Access Node": {
     "url": "https://api.github.com/repos/onflow/flow-go/releases",
-    "version": "v0.47.0",
+    "version": "v0.48.0",
     "note": "Flow-Go"
   },
   "Flow EVM GW": {
