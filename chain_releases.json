@@ -81,7 +81,7 @@
   },
   "Fraxtal": {
     "url": "https://api.github.com/repos/FraxFinance/fraxtal-node/releases",
-    "version": "testnet-20260320",
+    "version": "testnet-20260413",
     "note": "Docker image: https://hub.docker.com/r/filecoin/lotus/tags"
   },
   "Graph Node": {
