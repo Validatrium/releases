@@ -86,7 +86,7 @@
   },
   "Graph Node": {
     "url": "https://api.github.com/repos/graphprotocol/graph-node/releases",
-    "version": "v0.42.2-dev.4",
+    "version": "v0.42.1",
     "note": "Docker image: https://hub.docker.com/r/graphprotocol/graph-node/tags"
   },
   "Graph Indexer": {
