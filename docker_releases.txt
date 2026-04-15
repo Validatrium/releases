@@ -1,12 +1,12 @@
 Analog: https://hub.docker.com/v2/repositories/analoglabs/timenode-prod/tags: sha256:7b97d2d138bbd7feeddcad923dda249f5f1a8af4630e753bb909059073e263f1
 Astar (Shiden): https://hub.docker.com/v2/repositories/staketechnologies/astar-collator/tags: sha256:5d3426fa33b4656be02fa50250e666d18d42e868dcc430be984897fb429f5599
-Avalanche: https://hub.docker.com/v2/repositories/avaplatform/avalanchego/tags: sha256:09d6af48c945e38eba628fb558628b9e0d073b41bc7a7753c214802804223b8f
+Avalanche: https://hub.docker.com/v2/repositories/avaplatform/avalanchego/tags: sha256:062c34705b7b4eb7e85993daacaa65688470436b9d9e54ed1c9c6699b3a02858
 Blast: https://hub.docker.com/v2/repositories/blastio/blast-geth/tags: sha256:207a4175ab2b5023a3b2d8a5e54633b296007cd81fb76b576759d0d56ef37719
 Centrifuge: https://hub.docker.com/v2/repositories/centrifugeio/centrifuge-chain/tags: sha256:deb4f698b07929a24fcd24221777b8c1dd8735a6fff22ae12a17b35d90f2cdbe
 Linea: https://hub.docker.com/v2/repositories/consensys/linea-besu-package/tags: sha256:fa8081beb62fc74015ee08a165ede4cec5201202374f5111cae94bd52ccdd7b2
 Maru: https://hub.docker.com/v2/repositories/consensys/maru/tags: sha256:63ca1f84f68b01e4cf0c47ec0a5cf8af9773872af900300685d37522635a7a33
 Mantle: https://hub.docker.com/v2/repositories/mantlenetworkio/mantle-op-geth/tags: sha256:e053fd1eaeef9a5cba42e0220ef77baae87b2a2837a7d46d7200187bde15e9b9
-Moonbeam: https://hub.docker.com/v2/repositories/moonbeamfoundation/moonbeam/tags: sha256:78b7ae0a51cec90304001b7da83d7f3e6c0d4189e074172f1fddf003ac2930f5
+Moonbeam: https://hub.docker.com/v2/repositories/moonbeamfoundation/moonbeam/tags: sha256:0482f25c10177511f57b33eec8e7e13905393977247b6eb91b5e222024c61bcf
 Stellar Core: https://hub.docker.com/v2/repositories/stellar/stellar-core/tags: sha256:4183fc3732f220ef06b5b14a6b096394d7fb0350e01215262ce28c8c265127a8
 Stellar RPC: https://hub.docker.com/v2/repositories/stellar/stellar-rpc/tags: sha256:93a51568f7faaa533616cd190e5710fdea67a61e5d75266c8da64fcc9910904b
 Polkadot (Kusama): https://hub.docker.com/v2/repositories/parity/polkadot/tags: sha256:ebf93991565dfc8eac35498b0a71c79b11e1f58cb2907ca83a27bc14c516ad02
