@@ -161,7 +161,7 @@
   },
   "Plume": {
     "url": "https://api.github.com/repos/OffchainLabs/nitro/releases",
-    "version": "v3.9.9-rc.1",
+    "version": "v3.9.9-rc.2",
     "note": "Docker image: https://hub.docker.com/r/offchainlabs/nitro-node/tags"
   },
   "Prysm": {
