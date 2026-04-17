@@ -76,7 +76,7 @@
   },
   "Flow Cli": {
     "url": "https://api.github.com/repos/onflow/flow-cli/releases",
-    "version": "v2.16.0",
+    "version": "v2.17.0",
     "note": ""
   },
   "Fraxtal": {
