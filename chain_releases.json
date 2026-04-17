@@ -91,7 +91,7 @@
   },
   "Graph Indexer": {
     "url": "https://api.github.com/repos/graphprotocol/indexer/releases",
-    "version": "v0.25.8",
+    "version": "v0.25.9",
     "note": "Docker image: https://github.com/graphprotocol/indexer/pkgs/container/indexer-agent"
   },
   "Graph Service & TAP": {
@@ -211,7 +211,7 @@
   },
   "Xion": {
     "url": "https://api.github.com/repos/burnt-labs/xion/releases",
-    "version": "v29.0.0-rc1",
+    "version": "v29.0.0",
     "note": ""
   },
   "Alertmanager": {
