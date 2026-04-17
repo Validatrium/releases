@@ -56,7 +56,7 @@
   },
   "Espresso": {
     "url": "https://api.github.com/repos/EspressoSystems/espresso-network/releases",
-    "version": "20260203-staking-cli-mainnet",
+    "version": "20000101-test-release-workflow-3",
     "note": "Docker image: https://github.com/espressosystems/espresso-network/pkgs/container/espresso-sequencer%2Fsequencer"
   },
   "Filecoin": {
