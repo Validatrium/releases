@@ -96,7 +96,7 @@
   },
   "Graph Service & TAP": {
     "url": "https://api.github.com/repos/graphprotocol/indexer-rs/releases",
-    "version": "indexer-tap-agent-v2.0.1",
+    "version": "indexer-tap-agent-v2.0.2",
     "note": "Docker image: https://github.com/graphprotocol/indexer-rs/pkgs/container/indexer-service-rs"
   },
   "Graph Subgraph-Radio": {
@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "linea-besu-package-beta-v6.2-20260413130658-9cb6f11",
+    "version": "linea-besu-package-beta-v6.3-20260417155105-4355495",
     "note": ""
   },
   "Linea Maru": {
