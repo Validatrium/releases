@@ -1,5 +1,5 @@
 Aleph-Zero: "https://api.github.com/repos/Cardinal-Cryptography/aleph-node/releases": r-15.2.0
-Algorand: "https://api.github.com/repos/algorand/go-algorand/releases": v4.6.0-stable
+Algorand: "https://api.github.com/repos/algorand/go-algorand/releases": v4.7.0-beta
 Archway: "https://api.github.com/repos/archway-network/archway/releases": v10.1.1-tachyon-security-patch
 Astar (Shiden): "https://api.github.com/repos/AstarNetwork/Astar/releases": runtime-2101
 Axelar Core: "https://api.github.com/repos/axelarnetwork/axelar-core/releases": v1.4.0
