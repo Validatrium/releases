@@ -96,7 +96,7 @@
   },
   "Graph Service & TAP": {
     "url": "https://api.github.com/repos/graphprotocol/indexer-rs/releases",
-    "version": "indexer-tap-agent-v2.0.2",
+    "version": "indexer-tap-agent-v2.1.0",
     "note": "Docker image: https://github.com/graphprotocol/indexer-rs/pkgs/container/indexer-service-rs"
   },
   "Graph Subgraph-Radio": {
