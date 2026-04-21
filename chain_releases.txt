@@ -39,7 +39,7 @@ Linea: "https://api.github.com/repos/Consensys/linea-besu-package/releases": v0.
 Moonbeam: "https://api.github.com/repos/moonbeam-foundation/moonbeam/releases": v0.51.0
 Namada: "https://api.github.com/repos/namada-net/namada/releases": v101.1.4
 Namada Indexer: "https://api.github.com/repos/namada-net/namada-interface/releases": extension@v0.10.1
-Nym: "https://api.github.com/repos/nymtech/nym/releases": nym-binaries-v2026.7-tola
+Nym: "https://api.github.com/repos/nymtech/nym/releases": nym-binaries-v2026.8-urda
 Oasis Core: "https://api.github.com/repos/oasisprotocol/oasis-core/releases": v26.0
 Oasis Sapphire: "https://api.github.com/repos/oasisprotocol/sapphire-paratime/releases": v1.2.0
 Oasis Web3 Gateway: "https://api.github.com/repos/oasisprotocol/oasis-web3-gateway/releases": v5.3.4
