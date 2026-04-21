@@ -5,7 +5,7 @@ Blast: https://hub.docker.com/v2/repositories/blastio/blast-geth/tags: sha256:20
 Centrifuge: https://hub.docker.com/v2/repositories/centrifugeio/centrifuge-chain/tags: sha256:deb4f698b07929a24fcd24221777b8c1dd8735a6fff22ae12a17b35d90f2cdbe
 Linea: https://hub.docker.com/v2/repositories/consensys/linea-besu-package/tags: sha256:127806bced048ab68a4daff71908cb4931d03efe0349aeea8cf6388b125c7cb0
 Maru: https://hub.docker.com/v2/repositories/consensys/maru/tags: sha256:78eb99eb948e8998ae41d261d93e0e74727e52c63a0aed13fb216e0800bc9d24
-Mantle: https://hub.docker.com/v2/repositories/mantlenetworkio/mantle-op-geth/tags: sha256:e053fd1eaeef9a5cba42e0220ef77baae87b2a2837a7d46d7200187bde15e9b9
+Mantle: https://hub.docker.com/v2/repositories/mantlenetworkio/mantle-op-geth/tags: sha256:9b7eae0e343b4d687474662b6c1ecedfb3bbdd052d2085e428aaeb3b5a588513
 Moonbeam: https://hub.docker.com/v2/repositories/moonbeamfoundation/moonbeam/tags: sha256:0482f25c10177511f57b33eec8e7e13905393977247b6eb91b5e222024c61bcf
 Stellar Core: https://hub.docker.com/v2/repositories/stellar/stellar-core/tags: sha256:4183fc3732f220ef06b5b14a6b096394d7fb0350e01215262ce28c8c265127a8
 Stellar RPC: https://hub.docker.com/v2/repositories/stellar/stellar-rpc/tags: sha256:93a51568f7faaa533616cd190e5710fdea67a61e5d75266c8da64fcc9910904b
