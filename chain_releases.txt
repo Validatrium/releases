@@ -24,7 +24,7 @@ Farcaster: "https://api.github.com/repos/farcasterxyz/protocol/releases": v2023.
 FetchAI: "https://api.github.com/repos/fetchai/fetchd/releases": v0.15.0-rc1
 Filecoin: "https://api.github.com/repos/filecoin-project/lotus/releases": v1.35.1
 Flow Gateway: "https://api.github.com/repos/onflow/flow-evm-gateway/releases": v1.4.4
-Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.17.0
+Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.17.1
 Fraxtal: "https://api.github.com/repos/FraxFinance/fraxtal-node/releases": testnet-20260413
 Graph Node: "https://api.github.com/repos/graphprotocol/graph-node/releases": v0.42.1
 Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.25.9
@@ -47,7 +47,7 @@ Oasis Cipher: "https://api.github.com/repos/oasisprotocol/cipher-paratime/releas
 Oasis Emerald: "https://api.github.com/repos/oasisprotocol/emerald-paratime/releases": v11.0.0
 Oasis Keymanager: "https://api.github.com/repos/oasisprotocol/keymanager-paratime/releeases": 1
 Optimism Geth: "https://api.github.com/repos/ethereum-optimism/op-geth/releases": v1.101702.1
-Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases": op-reth/v2.0.0
+Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases": op-reth/v2.1.0
 Optimum: "https://api.github.com/repos/getoptimum/mump2p-cli/releases": v0.0.1-rc8
 Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.1
 Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.6.0
