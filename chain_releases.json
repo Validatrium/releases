@@ -141,7 +141,7 @@
   },
   "Nym": {
     "url": "https://api.github.com/repos/nymtech/nym/releases",
-    "version": "nym-binaries-v2026.7-tola",
+    "version": "nym-binaries-v2026.8-urda",
     "note": ""
   },
   "Osmosis": {
