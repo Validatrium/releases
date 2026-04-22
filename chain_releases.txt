@@ -49,7 +49,7 @@ Oasis Keymanager: "https://api.github.com/repos/oasisprotocol/keymanager-paratim
 Optimism Geth: "https://api.github.com/repos/ethereum-optimism/op-geth/releases": v1.101702.1
 Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases": op-reth/v2.1.0
 Optimum: "https://api.github.com/repos/getoptimum/mump2p-cli/releases": v0.0.1-rc8
-Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.1
+Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.2
 Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.6.0
 Polygon Bor: "https://api.github.com/repos/0xPolygon/bor/releases": v2.7.1
 Plume: "https://api.github.com/repos/celestiaorg/nitro/releases": v3.9.2-rc.1
