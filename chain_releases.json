@@ -146,7 +146,7 @@
   },
   "Osmosis": {
     "url": "https://api.github.com/repos/osmosis-labs/osmosis/releases",
-    "version": "v31.0.1",
+    "version": "v31.0.2",
     "note": ""
   },
   "Polygon Bor": {
