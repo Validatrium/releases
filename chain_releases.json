@@ -36,7 +36,7 @@
   },
   "CosmoWasm": {
     "url": "https://api.github.com/repos/CosmWasm/wasmvm/releases",
-    "version": "v3.0.4-rc.0",
+    "version": "v3.0.4-rc.1",
     "note": "Axelar Library. Update only after official announcement"
   },
   "Cosmoshub": {
