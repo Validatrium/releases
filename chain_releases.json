@@ -51,7 +51,7 @@
   },
   "Erigon": {
     "url": "https://api.github.com/repos/erigontech/erigon/releases",
-    "version": "v3.4.0-rc.4",
+    "version": "v3.4.0-rc.5",
     "note": ""
   },
   "Espresso": {
