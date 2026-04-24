@@ -5,7 +5,7 @@ Astar (Shiden): "https://api.github.com/repos/AstarNetwork/Astar/releases": runt
 Axelar Core: "https://api.github.com/repos/axelarnetwork/axelar-core/releases": v1.4.0
 Axelar Ampd: "https://api.github.com/repos/axelarnetwork/axelar-amplifier/releases": xrpl-handler-v0.1.6
 Axelar Tofnd: "https://api.github.com/repos/axelarnetwork/tofnd/releases": v1.0.1
-CosmoWasm: "https://api.github.com/repos/CosmWasm/wasmvm/releases": v3.0.4-rc.0
+CosmoWasm: "https://api.github.com/repos/CosmWasm/wasmvm/releases": v3.0.4-rc.1
 Bitsong: "https://api.github.com/repos/bitsongofficial/go-bitsong/releases": v0.23.1
 BSC: "https://api.github.com/repos/bnb-chain/bsc/releases": v1.7.3
 Celestia DA (Plume): "https://api.github.com/repos/celestiaorg/nitro-das-celestia/releases": v0.7.0-mocha
