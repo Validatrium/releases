@@ -25,7 +25,7 @@ FetchAI: "https://api.github.com/repos/fetchai/fetchd/releases": v0.15.0-rc1
 Filecoin: "https://api.github.com/repos/filecoin-project/lotus/releases": v1.35.1
 Flow Gateway: "https://api.github.com/repos/onflow/flow-evm-gateway/releases": v1.4.4
 Flow CLI: "https://api.github.com/repos/onflow/flow-cli/releases": v2.17.1
-Fraxtal: "https://api.github.com/repos/FraxFinance/fraxtal-node/releases": testnet-20260413
+Fraxtal: "https://api.github.com/repos/FraxFinance/fraxtal-node/releases": mainnet-20260425
 Graph Node: "https://api.github.com/repos/graphprotocol/graph-node/releases": v0.43.0
 Graph Indexer: "https://api.github.com/repos/graphprotocol/indexer/releases": v0.25.9
 Hedera: "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases": v0.76.2
