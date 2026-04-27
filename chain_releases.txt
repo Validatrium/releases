@@ -75,5 +75,5 @@ Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.56.2
 Grafana: "https://api.github.com/repos/grafana/grafana/releases": v13.0.1
 Loki: "https://api.github.com/repos/grafana/loki/releases": operator/v0.0.1-test
 Postgres: "https://api.github.com/repos/prometheus-community/postgres_exporter/releases": v0.19.1
-Prometheus: "https://api.github.com/repos/prometheus/prometheus/releases": v3.11.2
+Prometheus: "https://api.github.com/repos/prometheus/prometheus/releases": v3.11.3
 Systemd Exporter: ":"https://api.github.com/repos/prometheus-community/systemd_exporter/releases": 1
