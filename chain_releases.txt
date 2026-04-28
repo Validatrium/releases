@@ -47,7 +47,7 @@ Oasis Cipher: "https://api.github.com/repos/oasisprotocol/cipher-paratime/releas
 Oasis Emerald: "https://api.github.com/repos/oasisprotocol/emerald-paratime/releases": v11.0.0
 Oasis Keymanager: "https://api.github.com/repos/oasisprotocol/keymanager-paratime/releeases": 1
 Optimism Geth: "https://api.github.com/repos/ethereum-optimism/op-geth/releases": v1.101702.1
-Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases": op-deployer/v0.7.0-alpha.1
+Optimism Node: "https://api.github.com/repos/ethereum-optimism/optimism/releases": op-deployer/v0.7.0-alpha.2
 Optimum: "https://api.github.com/repos/getoptimum/mump2p-cli/releases": v0.0.1-rc8
 Osmosis: "https://api.github.com/repos/osmosis-labs/osmosis/releases": v31.0.2
 Polygon Heimdall: "https://api.github.com/repos/0xPolygon/heimdall-v2/releases": v0.6.0
@@ -69,7 +69,7 @@ Vara: "https://api.github.com/repos/gear-tech/gear/releases": build
 Xion: "https://api.github.com/repos/burnt-labs/xion/releases": v29.0.1
 XRPL EVM: "https://api.github.com/repos/xrplevm/node/releases": v10.0.3-rc.2
 XRPL: "https://api.github.com/repos/XRPLF/rippled/releases": 3.1.2
-Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.32.0
+Alertmanager: "https://api.github.com/repos/prometheus/alertmanager/releases": v0.32.1-rc.0
 Blackbox: "https://api.github.com/repos/prometheus/blackbox_exporter/releases": v0.28.0
 Cadvisor: "https://api.github.com/repos/google/cadvisor/releases": v0.56.2
 Grafana: "https://api.github.com/repos/grafana/grafana/releases": v13.0.1
