@@ -61,7 +61,7 @@
   },
   "Filecoin": {
     "url": "https://api.github.com/repos/filecoin-project/lotus/releases",
-    "version": "v1.35.1",
+    "version": "v1.36.0-rc1",
     "note": "Docker image: https://hub.docker.com/r/filecoin/lotus/tags"
   },
   "Flow Access Node": {
@@ -151,7 +151,7 @@
   },
   "Polygon Bor": {
     "url": "https://api.github.com/repos/0xPolygon/bor/releases",
-    "version": "v2.7.2",
+    "version": "v2.7.3-beta",
     "note": ""
   },
   "Polygon Heimdall": {
@@ -216,7 +216,7 @@
   },
   "Alertmanager": {
     "url": "https://api.github.com/repos/prometheus/alertmanager/releases",
-    "version": "v0.32.1-rc.0",
+    "version": "v0.32.1",
     "note": ""
   },
   "Grafana": {
