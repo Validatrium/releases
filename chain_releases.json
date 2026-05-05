@@ -91,7 +91,7 @@
   },
   "Graph Indexer": {
     "url": "https://api.github.com/repos/graphprotocol/indexer/releases",
-    "version": "v0.25.9",
+    "version": "v0.25.10",
     "note": "Docker image: https://github.com/graphprotocol/indexer/pkgs/container/indexer-agent"
   },
   "Graph Service & TAP": {
@@ -116,7 +116,7 @@
   },
   "Hydration": {
     "url": "https://api.github.com/repos/galacticcouncil/hydration-node/releases",
-    "version": "v47.0.0",
+    "version": "v47.0.1",
     "note": "Docker image: https://hub.docker.com/r/galacticcouncil/hydra-dx/tags"
   },
   "Immutable": {
