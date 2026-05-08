@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "releases/tx-exclusion-api/v0.2.0",
+    "version": "releases/tx-exclusion-api/v0.3.1",
     "note": ""
   },
   "Linea Maru": {
