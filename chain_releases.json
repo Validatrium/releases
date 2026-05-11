@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "releases/tx-exclusion-api/v0.3.3",
+    "version": "releases/tx-exclusion-api/v0.3.4",
     "note": ""
   },
   "Linea Maru": {
@@ -151,7 +151,7 @@
   },
   "Polygon Bor": {
     "url": "https://api.github.com/repos/0xPolygon/bor/releases",
-    "version": "v2.7.3",
+    "version": "v2.8.0-beta",
     "note": ""
   },
   "Polygon Heimdall": {
