@@ -56,7 +56,7 @@
   },
   "Espresso": {
     "url": "https://api.github.com/repos/EspressoSystems/espresso-network/releases",
-    "version": "20260512-libp2p-fixes",
+    "version": "20260512",
     "note": "Docker image: https://github.com/espressosystems/espresso-network/pkgs/container/espresso-sequencer%2Fsequencer"
   },
   "Filecoin": {
@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "releases/tx-exclusion-api/v0.3.4",
+    "version": "linea-besu-package-dev-20260501155929-32a0f80",
     "note": ""
   },
   "Linea Maru": {
