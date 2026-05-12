@@ -56,7 +56,7 @@
   },
   "Espresso": {
     "url": "https://api.github.com/repos/EspressoSystems/espresso-network/releases",
-    "version": "20000101-test-release-workflow-3",
+    "version": "20260512-libp2p-fixes",
     "note": "Docker image: https://github.com/espressosystems/espresso-network/pkgs/container/espresso-sequencer%2Fsequencer"
   },
   "Filecoin": {
