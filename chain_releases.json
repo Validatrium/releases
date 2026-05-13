@@ -61,7 +61,7 @@
   },
   "Filecoin": {
     "url": "https://api.github.com/repos/filecoin-project/lotus/releases",
-    "version": "v1.36.0-rc1",
+    "version": "v1.36.0",
     "note": "Docker image: https://hub.docker.com/r/filecoin/lotus/tags"
   },
   "Flow Access Node": {
@@ -116,7 +116,7 @@
   },
   "Hydration": {
     "url": "https://api.github.com/repos/galacticcouncil/hydration-node/releases",
-    "version": "v48.0.0",
+    "version": "v48.0.2",
     "note": "Docker image: https://hub.docker.com/r/galacticcouncil/hydra-dx/tags"
   },
   "Immutable": {
