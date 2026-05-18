@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "linea-besu-package-dev-20260501155929-32a0f80",
+    "version": "releases/tx-exclusion-api/v1.0.1-rc2",
     "note": ""
   },
   "Linea Maru": {
@@ -201,7 +201,7 @@
   },
   "Union": {
     "url": "https://api.github.com/repos/unionlabs/union/releases",
-    "version": "uniond/v1.2.3",
+    "version": "uniond/v1.3.0-rc1",
     "note": ""
   },
   "Uptick": {
