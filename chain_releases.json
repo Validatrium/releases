@@ -6,7 +6,7 @@
   },
   "Astar (Shiden)": {
     "url": "https://api.github.com/repos/AstarNetwork/Astar/releases",
-    "version": "v5.49.0",
+    "version": "v5.49.1",
     "note": "Docker image: https://hub.docker.com/r/staketechnologies/astar-collator/tags"
   },
   "Axelar Core": {
@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "releases/tx-exclusion-api/v1.0.1-rc2",
+    "version": "releases/tx-exclusion-api/v1.0.1-rc6",
     "note": ""
   },
   "Linea Maru": {
@@ -236,7 +236,7 @@
   },
   "Prometheus": {
     "url": "https://api.github.com/repos/prometheus/prometheus/releases",
-    "version": "v3.11.3",
+    "version": "v3.12.0-rc.0",
     "note": ""
   },
   "Uptime Kuma": {
