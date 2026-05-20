@@ -66,7 +66,7 @@
   },
   "Flow Access Node": {
     "url": "https://api.github.com/repos/onflow/flow-go/releases",
-    "version": "v0.48.0",
+    "version": "v0.49.0",
     "note": "Flow-Go"
   },
   "Flow EVM GW": {
@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "releases/tx-exclusion-api/v1.0.1-rc6",
+    "version": "releases/tx-exclusion-api/v1.0.1-rc7",
     "note": ""
   },
   "Linea Maru": {
