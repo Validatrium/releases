@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "releases/tx-exclusion-api/v1.0.1-rc7",
+    "version": "releases/linea/v1.1.0-rc8",
     "note": ""
   },
   "Linea Maru": {
@@ -141,7 +141,7 @@
   },
   "Nym": {
     "url": "https://api.github.com/repos/nymtech/nym/releases",
-    "version": "nym-binaries-v2026.9-venaco",
+    "version": "nym-wallet-v1.2.20",
     "note": ""
   },
   "Osmosis": {
