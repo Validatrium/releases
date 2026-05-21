@@ -76,7 +76,7 @@
   },
   "Flow Cli": {
     "url": "https://api.github.com/repos/onflow/flow-cli/releases",
-    "version": "v2.17.1",
+    "version": "v2.17.2",
     "note": ""
   },
   "Fraxtal": {
@@ -106,7 +106,7 @@
   },
   "Hedera": {
     "url": "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases",
-    "version": "v0.76.2",
+    "version": "v0.77.0",
     "note": "Docker image: https://github.com/hiero-ledger/hiero-json-rpc-relay/pkgs/container/hiero-json-rpc-relay"
   },
   "Hermes IBC (Relayers)": {
@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "releases/linea-besu-package/v1.1.1-mrc1",
+    "version": "releases/linea/v1.0.1-rct2",
     "note": ""
   },
   "Linea Maru": {
