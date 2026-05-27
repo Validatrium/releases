@@ -106,7 +106,7 @@
   },
   "Hedera": {
     "url": "https://api.github.com/repos/hiero-ledger/hiero-json-rpc-relay/releases",
-    "version": "v0.77.0",
+    "version": "v0.77.1",
     "note": "Docker image: https://github.com/hiero-ledger/hiero-json-rpc-relay/pkgs/container/hiero-json-rpc-relay"
   },
   "Hermes IBC (Relayers)": {
@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "linea-besu-package-dev-20260501155929-32a0f80",
+    "version": "releases/tx-exclusion-api/v1.0.1-rc1",
     "note": ""
   },
   "Linea Maru": {
@@ -141,7 +141,7 @@
   },
   "Nym": {
     "url": "https://api.github.com/repos/nymtech/nym/releases",
-    "version": "nym-wallet-v1.2.20",
+    "version": "nym-binaries-v2026.10-waterloo",
     "note": ""
   },
   "Osmosis": {
