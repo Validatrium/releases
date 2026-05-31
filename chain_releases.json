@@ -241,7 +241,7 @@
   },
   "Uptime Kuma": {
     "url": "https://api.github.com/repos/louislam/uptime-kuma/releases",
-    "version": "2.3.2",
+    "version": "2.4.0",
     "note": ""
   }
 }
