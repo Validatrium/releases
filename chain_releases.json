@@ -41,7 +41,7 @@
   },
   "Cosmoshub": {
     "url": "https://api.github.com/repos/cosmos/gaia/releases",
-    "version": "v27.4.0-rc0",
+    "version": "v27.4.0",
     "note": ""
   },
   "Dymension": {
@@ -131,7 +131,7 @@
   },
   "Linea Besu": {
     "url": "https://api.github.com/repos/Consensys/linea-monorepo/releases",
-    "version": "releases/linea-besu-package/v1.0.1-mrc1",
+    "version": "linea-besu-package-dev-20260501155929-32a0f80",
     "note": ""
   },
   "Linea Maru": {
