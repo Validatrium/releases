@@ -6,7 +6,7 @@
   },
   "Astar (Shiden)": {
     "url": "https://api.github.com/repos/AstarNetwork/Astar/releases",
-    "version": "v5.49.2",
+    "version": "runtime-2206",
     "note": "Docker image: https://hub.docker.com/r/staketechnologies/astar-collator/tags"
   },
   "Axelar Core": {
@@ -51,7 +51,7 @@
   },
   "Erigon": {
     "url": "https://api.github.com/repos/erigontech/erigon/releases",
-    "version": "v3.4.2",
+    "version": "v3.4.3",
     "note": ""
   },
   "Espresso": {
