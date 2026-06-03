@@ -86,7 +86,7 @@
   },
   "Graph Node": {
     "url": "https://api.github.com/repos/graphprotocol/graph-node/releases",
-    "version": "v0.43.0",
+    "version": "v0.44.0",
     "note": "Docker image: https://hub.docker.com/r/graphprotocol/graph-node/tags"
   },
   "Graph Indexer": {
@@ -96,7 +96,7 @@
   },
   "Graph Service & TAP": {
     "url": "https://api.github.com/repos/graphprotocol/indexer-rs/releases",
-    "version": "indexer-tap-agent-v2.1.0",
+    "version": "indexer-tap-agent-v2.2.0",
     "note": "Docker image: https://github.com/graphprotocol/indexer-rs/pkgs/container/indexer-service-rs"
   },
   "Graph Subgraph-Radio": {
